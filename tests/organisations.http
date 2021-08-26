@@ -1,0 +1,92 @@
+@ROOTURL = http://localhost:3000/api
+# @ROOTURL = https://swattupserver.eu-west-2.elasticbeanstalk.com/api
+@userID = 5ade2db26842f679a2d80b48
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZDZiZmMxZDg0MjliYTA5M2MwODQ5NjEiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6dHJ1ZSwicGFzc3dvcmREYXRlIjoiU3VuIFNlcCAwMSAyMDE5IDE5OjEzOjAxIEdNVCswMjAwIChDZW50cmFsIEV1cm9wZWFuIFN1bW1lciBUaW1lKSIsImlhdCI6MTU2OTAwMDgxMn0.sP8L9FQyAyGLHpl1ttHb-oIpU4wpid_gZ57caTmB8is
+# @token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWRlMmRiMjY4NDJmNjc5YTJkODBiNDgiLCJ0eXBlIjoiYWRtaW4iLCJvcmdhbmlzZXIiOnRydWUsInBhc3N3b3JkRGF0ZSI6IldlZCBKdW4gMTMgMjAxOCAxOTo1MDoxMCBHTVQrMDAwMCAoVVRDKSIsImlhdCI6MTUzNTU0ODM2Nn0.IIHjYu7PLocH8rfKspyZqNQT28XQ8J0c7yE9svY-OiE
+
+### SIGN IN
+POST {{ROOTURL}}/admin/signin
+content-type: application/json
+
+{
+    "email": "dondan",
+    "password": "kek555"
+}
+
+### JOIN ORGANISATION
+POST {{ROOTURL}}/organisations
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "code": "KUPHBS"
+}
+
+### LEAVE ORGANISATION
+GET {{ROOTURL}}/organisations/Art Society/leave
+Authorization: {{token}}
+
+### FETCH FILES
+GET {{ROOTURL}}/organisations/12345/files
+Authorization: {{token}}
+
+### REQUEST FILE
+POST {{ROOTURL}}/files/request
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "file": "(12345) Daniel Cherbanich - Cover Letter React.docx",
+    "organisation": "12345"
+}
+
+### ### ### ### ORGANISER ONLY
+### FETCH ORGANISATIONS
+GET {{ROOTURL}}/organisations
+Authorization: {{token}}
+
+### FETCH ORGANISATION
+GET {{ROOTURL}}/organisations/Art Society
+Authorization: {{token}}
+
+
+### DELETE ORGANISATION
+DELETE {{ROOTURL}}/organisations/Org5
+Authorization: {{token}}
+
+### REGENERATE CODES
+GET {{ROOTURL}}/organisations/Art Society/regenerate
+Authorization: {{token}}
+
+### CHANGE EMAIL LOCK
+POST {{ROOTURL}}/organisations/Art Society/emaillock
+Authorization: {{token}}
+content-type: application/json
+
+{
+    "emailLock": "cherb.co.uk"
+}
+
+### REMOVE MEMBER
+GET {{ROOTURL}}/organisations/12345/remove/5adf60c4721a6f37ea77c5c0
+Authorization: {{token}}
+
+### UPLOAD FILE
+POST {{ROOTURL}}/files/upload
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "title": "cool file",
+    "organisation": "Cool Organisation"
+}
+
+### DELETE FILE
+POST {{ROOTURL}}/files/delete
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "file": "(12345) TEST DOC.txt",
+    "organisation": "12345"
+}

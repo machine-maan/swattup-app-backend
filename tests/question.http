@@ -1,0 +1,87 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5aebc3b9f8781b1d5c464b62
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmJkNzFjMDZjYTcwZjE0MTg5NmIxNDEiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6ZmFsc2UsInBhc3N3b3JkRGF0ZSI6IldlZCBPY3QgMTAgMjAxOCAwNDoyODowMCBHTVQrMDEwMCAoR01UIFN1bW1lciBUaW1lKSIsImlhdCI6MTU2NjA4NTc2MX0.yYZYhsQwjuImjG4Yht9y7aYv_A5A7xOE8KzX4liZkmo
+
+### FETCH FULL QUESTION (SWATTUP MENTORING)
+GET {{ROOTURL}}/question/5d58366c311e1c1ab44c7b87
+Authorization: {{token}}
+
+### FETCH FULL QUESTION (ART)
+GET {{ROOTURL}}/question/5d4765852b777b470cb600ae
+Authorization: {{token}}
+
+
+### POST QUESTION
+POST {{ROOTURL}}/question
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "userID": "{{userID}}",
+    "title": "Test",
+    "body": "Sorry.",
+    "subject": "Art Society"
+}
+
+### POST QUESTION
+POST {{ROOTURL}}/question
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "userID": "{{userID}}",
+    "title": "Test",
+    "body": "Sorry.",
+    "subject": "SwattUp Support",
+    "mentions": ["dondan"]
+}
+
+### POST ANSWER (COOL ORGANISATION)
+POST {{ROOTURL}}/question/5d48473fe6957431988c40d7
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "userID": "{{userID}}",
+    "body": "asd"
+} 
+
+### POST ANSWER (ART SOCIETY)
+POST {{ROOTURL}}/question/5d48442c7ae7ef048055692c
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "userID": "{{userID}}",
+    "body": "asd"
+}
+
+### POST ANSWER (CHEMISTRY)
+POST {{ROOTURL}}/question/5ae3fe0e9820d560ac2f4fdf
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "userID": "{{userID}}",
+    "body": "asd"
+}
+
+### POST COMMENT
+POST {{ROOTURL}}/question/5c39c867e1104e62d4ffffcb/5c39c86de1104e62d4ffffcd/comment
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "userID": "{{userID}}",
+    "body": "test comment",
+    "mentions": ["dondan"]
+}
+
+### INTERACT QUESTION (save, unsave, up)
+GET {{ROOTURL}}/question/5c39c52298f32e5efda4f025/up
+Authorization: {{token}}
+
+### UP ANSWER
+GET {{ROOTURL}}/question/5c39c52298f32e5efda4f025/5c39c53098f32e5efda4f028/up
+Authorization: {{token}}
+

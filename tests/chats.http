@@ -1,0 +1,100 @@
+@ROOT_URL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+#dondan
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmE5NGJmNTJjMmFmYTczNGQ5ZGM5YWIiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6dHJ1ZSwicGFzc3dvcmREYXRlIjoiTW9uIFNlcCAyNCAyMDE4IDIwOjQxOjI1IEdNVCswMDAwIChVVEMpIiwiaWF0IjoxNTY4ODQ5NjE4fQ.toeru6-nMwEFqf6dJ1z31qn6fO0RVuKjrySENFEMuMk
+#dantwo
+# @token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZDZiZmM4Nzg0MjliYTA5M2MwODQ5NjUiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6ZmFsc2UsInBhc3N3b3JkRGF0ZSI6IlN1biBTZXAgMDEgMjAxOSAxOToxNDo0NyBHTVQrMDIwMCAoQ2VudHJhbCBFdXJvcGVhbiBTdW1tZXIgVGltZSkiLCJpYXQiOjE1Njc2MzY3MzN9.LewLVfcgoT2HCsAY50Daimb5yvv_eRtIjvD2beyXHqA
+#danfive
+# @token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWYyMmRiZDZkMjIwMjI1NjRmNmQ1ZGUiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6ZmFsc2UsInBhc3N3b3JkRGF0ZSI6IlR1ZSBNYXkgMDggMjAxOCAyMzowNzo0MSBHTVQrMDAwMCAoVVRDKSIsImlhdCI6MTU2MjgwNjg0OH0.zf214VokZlSrx544Zcg2wRLL0C8OWQyC6iO7bW7OvD4
+
+### SEARCH USERS
+POST {{ROOT_URL}}/users/search
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "input": "dondan"
+}
+
+### FETCH CHATS
+GET {{ROOT_URL}}/chats/fetch
+Authorization: {{token}}
+
+### FETCH CHAT (_id)
+POST {{ROOT_URL}}/chats/fetch
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "_id": "5d6fe7a956c1d13c24969b60"
+}
+
+# FETCH CHAT (recipient) 5d6bfc878429ba093c084965 5d6bfc1d8429ba093c084961
+POST {{ROOT_URL}}/chats/fetch
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "recipient": "5d6bfc878429ba093c084965"
+}
+
+### CREATE GROUP CHAT
+POST {{ROOT_URL}}/chats/group/create
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "recipients": ["5ba94bf52c2afa734d9dc9ab"]
+}
+
+### ADD TO GROUP CHAT
+POST {{ROOT_URL}}/chats/group/add
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "_id": "5d763ea0cee9db3558fe48f6",
+    "recipients": ["5ba94bf52c2afa734d9dc9ab"]
+}
+
+### LEAVE GROUP CHAT
+POST {{ROOT_URL}}/chats/group/leave
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "_id": "5d2689c4bc9ede14bcdaf2c9"
+}
+
+### SEND MESSAGE (_id, plus text or image)
+POST {{ROOT_URL}}/chats
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "_id": "5d82bdcac79373047008f951",
+    "text": "aaa"
+}
+
+### REQUEST IMAGES
+POST {{ROOT_URL}}/images/request
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "names": ["5d6c2517e8eadc182cff222f5d6bfc878429ba093c084965"]
+}
+
+### BLOCK/UNBLOCK USER
+POST {{ROOT_URL}}/chats/blocks/5d72744d60d0b22d544596a3/block
+Authorization: {{token}}
+content-type: application/json
+
+{
+    "report": false,
+    "reportReason": "test"
+}
+
+### FETCH BLOCKED USERS
+GET {{ROOT_URL}}/chats/blocks
+Authorization: {{token}}

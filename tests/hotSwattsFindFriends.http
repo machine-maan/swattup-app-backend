@@ -1,0 +1,20 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWRlMmRiMjY4NDJmNjc5YTJkODBiNDgiLCJ0eXBlIjoiYWRtaW4iLCJwYXNzd29yZERhdGUiOiJNb24gQXByIDIzIDIwMTggMTk6MDI6MTAgR01UKzAwMDAgKFVUQykiLCJpYXQiOjE1MjY2MDE5NTV9.0UVzCT61XKsPQN6FmOk6_CktIWQG0yJ7Wt1Fva6Z51I
+
+### GENERATE RANDOM USER
+GET {{ROOTURL}}/admin/random
+Authorization: {{token}}
+
+### GENERATE HOT SWATTS
+GET {{ROOTURL}}/hotswatts
+Authorization: {{token}}
+
+### FIND FRIENDS
+POST {{ROOTURL}}/findfriends
+Authorization: {{token}}
+Content-Type: application/json
+
+{ 
+    "numbers": ["0777 7777777", "07546 495378"]
+}

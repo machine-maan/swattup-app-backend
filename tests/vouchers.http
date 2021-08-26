@@ -1,0 +1,26 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWRlMmRiMjY4NDJmNjc5YTJkODBiNDgiLCJ0eXBlIjoiYWRtaW4iLCJwYXNzd29yZERhdGUiOiJXZWQgSnVuIDEzIDIwMTggMTk6NTA6MTAgR01UKzAwMDAgKFVUQykiLCJpYXQiOjE1MzAxMjYzMzZ9.2FjV-vA6iUznVZCubMgCr-AkaKzg-sLXS4of33kGDiM
+
+### FETCH VOUCHERS
+GET {{ROOTURL}}/vouchers
+Authorization: {{token}}
+
+### ADD VOUCHER
+POST {{ROOTURL}}/vouchers
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "title": "Cool Voucher 5",
+    "URL": "http://cherb.co.uk",
+    "store": "Google",
+    "icon": "map",
+    "code": "XXXLOL",
+    "expiry": "01-07-2018",
+    "level": 4
+}
+
+### DELETE VOUCHER
+DELETE {{ROOTURL}}/vouchers/5b3bab42f9ab4d2194b340f8
+Authorization: {{token}}

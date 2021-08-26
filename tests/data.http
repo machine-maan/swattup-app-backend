@@ -1,0 +1,13 @@
+@ROOT_URL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+#dondan
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWViYzNiOWY4NzgxYjFkNWM0NjRiNjIiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6ZmFsc2UsInBhc3N3b3JkRGF0ZSI6IkZyaSBNYXkgMDQgMjAxOCAwMjoyMTo0NSBHTVQrMDAwMCAoVVRDKSIsImlhdCI6MTU2NjA5NTgxMH0.4079vLcUY1bxnPqnawbSuV41vfl4t6Ye-LCX3uUEc58
+
+### FETCH DATA
+POST {{ROOT_URL}}/data
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "chats": true
+}

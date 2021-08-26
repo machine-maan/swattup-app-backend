@@ -1,0 +1,11 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZDZiZmMxZDg0MjliYTA5M2MwODQ5NjEiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6dHJ1ZSwicGFzc3dvcmREYXRlIjoiU3VuIFNlcCAwMSAyMDE5IDE5OjEzOjAxIEdNVCswMjAwIChDZW50cmFsIEV1cm9wZWFuIFN1bW1lciBUaW1lKSIsImlhdCI6MTU2OTAwMDgxMn0.sP8L9FQyAyGLHpl1ttHb-oIpU4wpid_gZ57caTmB8is
+
+### CREATE CROWD
+GET {{ROOTURL}}/crowds/Local Organisation/organisation
+Authorization: {{token}}
+
+### REMOVE/BAN/UNBAN CROWD
+GET {{ROOTURL}}/admin/crowds/SwattUp Mentoring/remove
+Authorization: {{token}}

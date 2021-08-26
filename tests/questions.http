@@ -1,0 +1,100 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5b5fa1db654f8a5eaf861969
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZDg0YTQzOTdkNTNhNTIxN2MzMWY2ZDkiLCJ0eXBlIjoidXNlciIsIm9yZ2FuaXNlciI6ZmFsc2UsInBhc3N3b3JkRGF0ZSI6IkZyaSBTZXAgMjAgMjAxOSAxMjowNDo0MSBHTVQrMDIwMCAoQ2VudHJhbCBFdXJvcGVhbiBTdW1tZXIgVGltZSkiLCJpYXQiOjE1Njg5NzQyMjh9.CAEoKaS19S83V6h-T0MpFA5LhsEmD4RoN4gI3DPLgfc
+@tokenB = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEyYzZhYmMzYTVjNTU4MmFiN2ZmMzEiLCJ0eXBlIjoiYWRtaW4iLCJvcmdhbmlzZXIiOmZhbHNlLCJwYXNzd29yZERhdGUiOiJTdW4gSmFuIDEzIDIwMTkgMTU6NTY6NTQgR01UKzAwMDAgKFVUQykiLCJpYXQiOjE1Nzg1NzE4MzR9.MYGqqx0DGZgjfGz0gTNxMRV3uBKSscCAD3HqwFqdKKw
+
+### FETCH SUMMARIES, UNANSWERED QUESTION COUNTS etc
+POST {{ROOTURL}}/questions/all/summaries
+content-type: application/json
+Authorization: {{tokenB}}
+
+{
+    "subjects": [ 
+        "Keele Freshers 2k18",
+        "Geography",
+        "German",
+        "Health & Wellbeing",
+        "History",
+        "International Governance and Public Policy",
+        "Law",
+        "Learning Disability Nursing",
+        "Liberal Arts",
+        "Management",
+        "Literature",
+        "Marketing",
+        "Media",
+        "Music",
+        "Nursing",
+        "Pharmacy",
+        "Philosophy",
+        "Physiotherapy",
+        "Psychology",
+        "Rehabilitation Science",
+        "Radiography",
+        "Spanish",
+        "Sociology",
+        "Veterinary Studies",
+        "Statistics",
+        "Keele socities",
+        "Aspiring solicitors",
+        "Aspiring barristers",
+        "Young solicitors",
+        "Hummanities Foundation",
+        "Entrepreneurs",
+        "Outfit ideas",
+        "Coding",
+        "Gaming",
+        "Travel",
+        "Debating",
+        "Backpacking",
+        "University Transition",
+        "Ac Dev project",
+        "AcDev",
+        "Comm skills energy thing",
+        "Revision Tips ��",
+        "Public Law - Judicial Review",
+        "Creative Writing",
+        "Dog",
+        "Animals",
+        "Sport",
+        "Biology A Level",
+        "Karate",
+        "Forensic Psychology",
+        "WWE",
+        "Alevel chemistry",
+        "Forensic Psych Uni",
+        "Memes Incorporated ™",
+        "Uni Psychology",
+        "LGBT",
+        "National 5 Biology",
+        "YouTube",
+        "hypebeast",
+        "Playstation",
+        "alevel AQQ maths",
+        "Social Media",
+        "London",
+        "Medicine2020",
+        "Sports Therapy",
+        "Admin",
+        "SwattUp Professional",
+        "SwattUp Mentoring",
+        "Knowledge Base",
+        "Test" 
+    ]
+}
+
+### FETCH QUESTIONS IN SUBJECT
+GET {{ROOTURL}}/questions/Chemistry/All
+Authorization: {{tokenB}}
+
+### FETCH ALL SAVED THREADS
+GET {{ROOTURL}}/questions/Coding Organisation/AllSaved/0/noLimit
+Authorization: {{token}}
+
+### SEARCH QUESTIONS IN SUBJECT
+GET {{ROOTURL}}/questions/Coding Organisation/search/language
+Authorization: {{token}}
+
+### SUBSCRIBE
+GET {{ROOTURL}}/subscriptions/aaa/add
+Authorization: {{token}}

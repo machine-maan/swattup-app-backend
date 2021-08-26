@@ -1,0 +1,55 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWRlMmRiMjY4NDJmNjc5YTJkODBiNDgiLCJ0eXBlIjoiYWRtaW4iLCJvcmdhbmlzZXIiOnRydWUsInBhc3N3b3JkRGF0ZSI6IldlZCBKdW4gMTMgMjAxOCAxOTo1MDoxMCBHTVQrMDAwMCAoVVRDKSIsImlhdCI6MTU2NDYyMzkwNX0.vKXCucwraasY4HdDYARbTpQL8DOOuwiOb_l-D306Y5E
+
+### GET CONFIG AND CROWDS
+GET {{ROOTURL}}/config
+Authorization: {{token}}
+
+### UPDATE CONFIG
+POST {{ROOTURL}}/admin/config
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "requireAcEmail": false
+}
+
+### GET TERMS
+GET {{ROOTURL}}/terms
+Authorization: {{token}}
+
+### GET PRIVACY POLICY
+GET {{ROOTURL}}/privacy
+Authorization: {{token}}
+
+### UPDATE TERMS/PRIVACY POLICY
+POST {{ROOTURL}}/terms
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "body": "Lorem"
+}
+
+### SEND REPORT
+POST {{ROOTURL}}/report/
+content-type: application/json
+Authorization: {{token}}
+
+{
+    "report": "Hi, just a test. Cool."
+}
+
+### FETCH EMAIL SUBSCRIPTIONS
+GET {{ROOTURL}}/admin/emails?authorization=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWRlMmRiMjY4NDJmNjc5YTJkODBiNDgiLCJ0eXBlIjoiYWRtaW4iLCJvcmdhbmlzZXIiOnRydWUsInBhc3N3b3JkRGF0ZSI6IldlZCBKdW4gMTMgMjAxOCAxOTo1MDoxMCBHTVQrMDAwMCAoVVRDKSIsImlhdCI6MTU2NDYyMzkwNX0.vKXCucwraasY4HdDYARbTpQL8DOOuwiOb_l-D306Y5E
+content-type: application/json
+
+
+### TEST ROUTE (try stuff out)
+GET {{ROOTURL}}/test
+content-type: application/json
+Authorization: {{token}}
+
+### ACME CODE
+GET http://localhost:3000/.well-known/acme-challenge/asdfg

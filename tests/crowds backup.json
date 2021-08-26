@@ -1,0 +1,5607 @@
+[
+    {
+      "_id": {
+        "$oid": "5ba68309c3a5c5582ab7ff55"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba90948c3a5c5582ab8007a"
+        },
+        {
+          "$oid": "5bab35c598ae610386cfa8cc"
+        },
+        {
+          "$oid": "5bacf34598ae610386cfa9b5"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbd74782e94f41c6c7773b6"
+        },
+        {
+          "$oid": "5bbf0717e2746f1088e523d8"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd74782e94f41c6c7773b6",
+        "5bbf0717e2746f1088e523d8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba90948c3a5c5582ab8007a",
+        "5bab35c598ae610386cfa8cc",
+        "5bacf34598ae610386cfa9b5",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Accounting",
+      "lowercaseName": "accounting",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T17:59:37.415Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6830bc3a5c5582ab7ff57"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbd6e4998ae610386cfabf5"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd6e4998ae610386cfabf5",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5be453d1de50b4457d8b0a44",
+        "5bebe12bb0dbce60e70e9020"
+      ],
+      "leaders": [],
+      "name": "American Studies",
+      "lowercaseName": "american studies",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T17:59:39.605Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c418e6819c253557b61a3ad"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5c418bd819c253557b61a3a6",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "subscriptions": [
+        "5c418bd819c253557b61a3a6",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [
+        {
+          "$oid": "5c418bd819c253557b61a3a6"
+        }
+      ],
+      "name": "Anonymous test",
+      "lowercaseName": "anonymous test",
+      "creator": "5c418bd819c253557b61a3a6",
+      "official": false,
+      "inviteCode": "GINWJL",
+      "leaderCode": "RPEDDS",
+      "date": "2019-01-18T08:29:28.697Z",
+      "files": [],
+      "__v": 0,
+      "anonymous": true
+    },
+    {
+      "_id": {
+        "$oid": "5ba918f6c3a5c5582ab8009d"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        {
+          "$oid": "5ba94bf52c2afa734d9dc9ab"
+        },
+        {
+          "$oid": "5ba9787898ae610386cfa7d8"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        }
+      ],
+      "subscriptions": [
+        "5ba9787898ae610386cfa7d8",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba94bf52c2afa734d9dc9ab",
+        "5ba745e8c3a5c5582ab8001b",
+        "5ba905abc3a5c5582ab8006f",
+        "5bffe9b214290c5cfdde0a04"
+      ],
+      "leaders": [],
+      "name": "AQA A-level Psychology",
+      "lowercaseName": "aqa a-level psychology",
+      "creator": "5ba2c6abc3a5c5582ab7ff31",
+      "official": false,
+      "date": "2018-09-24T17:03:50.609Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba2898fc3a5c5582ab7ff29"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba289ffc3a5c5582ab7ff2c"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba4c08ec3a5c5582ab7ff43"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5ba95e9398ae610386cfa7c1"
+        },
+        {
+          "$oid": "5bbd6e4998ae610386cfabf5"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba289ffc3a5c5582ab7ff2c",
+        "5ba4c08ec3a5c5582ab7ff43",
+        "5bbd6e4998ae610386cfabf5",
+        "5ba95e9398ae610386cfa7c1",
+        "5bd1f1aade50b4457d8b0956",
+        "5bd2d81dde50b4457d8b0973",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133",
+        "5bebe12bb0dbce60e70e9020"
+      ],
+      "leaders": [],
+      "name": "Art",
+      "lowercaseName": "art",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-19T17:38:23.047Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68326c3a5c5582ab7ff59"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba94bf52c2afa734d9dc9ab"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5bfecf7a14290c5cfdde09dd"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba94bf52c2afa734d9dc9ab",
+        "5bd1f1aade50b4457d8b0956",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133",
+        "5bebe12bb0dbce60e70e9020",
+        "5bfecf7a14290c5cfdde09dd"
+      ],
+      "leaders": [],
+      "name": "Art History",
+      "lowercaseName": "art history",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:06.837Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bbf8e5be2746f1088e523e9"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5baa56fe98ae610386cfa86b",
+        {
+          "$oid": "5baa56fe98ae610386cfa86b"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5baa56fe98ae610386cfa86b"
+      ],
+      "leaders": [],
+      "name": "Aspiring barristers",
+      "lowercaseName": "aspiring barristers",
+      "creator": "5baa56fe98ae610386cfa86b",
+      "official": false,
+      "date": "2018-10-11T17:54:35.338Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bb1551898ae610386cfaa99"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5baa56fe98ae610386cfa86b",
+        {
+          "$oid": "5bb66bc698ae610386cfab6b"
+        },
+        {
+          "$oid": "5bb66e1098ae610386cfab78"
+        },
+        {
+          "$oid": "5bb6706798ae610386cfab88"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        },
+        {
+          "$oid": "5bb7310398ae610386cfabc5"
+        },
+        {
+          "$oid": "5bb732a498ae610386cfabcf"
+        },
+        {
+          "$oid": "5baa56fe98ae610386cfa86b"
+        }
+      ],
+      "subscriptions": [
+        "5bb66e1098ae610386cfab78",
+        "5baa56fe98ae610386cfa86b",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bb66bc698ae610386cfab6b",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bb732a498ae610386cfabcf",
+        "5bb6706798ae610386cfab88",
+        "5bb7310398ae610386cfabc5"
+      ],
+      "leaders": [],
+      "name": "Aspiring solicitors",
+      "lowercaseName": "aspiring solicitors",
+      "creator": "5baa56fe98ae610386cfa86b",
+      "official": false,
+      "date": "2018-09-30T22:58:32.695Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6832bc3a5c5582ab7ff5b"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baccd3498ae610386cfa9ae"
+        },
+        {
+          "$oid": "5bae322198ae610386cfaa0a"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bafb64f98ae610386cfaa6d"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baccd3498ae610386cfa9ae",
+        "5bae322198ae610386cfaa0a",
+        "5bafb64f98ae610386cfaa6d",
+        "5bbd71c06ca70f141896b141",
+        "5bd4256fde50b4457d8b098c",
+        "5be0832bde50b4457d8b09db",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Astrophysics",
+      "lowercaseName": "astrophysics",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:11.134Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bee0581c2330228cc3418cf"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        }
+      ],
+      "subscriptions": [
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [],
+      "name": "Backpacking",
+      "lowercaseName": "backpacking",
+      "creator": "5bebe12bb0dbce60e70e9020",
+      "official": false,
+      "date": "2018-11-15T23:47:13.294Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6832fc3a5c5582ab7ff5f"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab753598ae610386cfa8ea"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bb66bc698ae610386cfab6b"
+        },
+        {
+          "$oid": "5bb6706798ae610386cfab88"
+        },
+        {
+          "$oid": "5bb7200e98ae610386cfab95"
+        },
+        {
+          "$oid": "5bbd6e4998ae610386cfabf5"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd6e4998ae610386cfabf5",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab753598ae610386cfa8ea",
+        "5bb1d29398ae610386cfaa9f",
+        "5bae521b98ae610386cfaa16",
+        "5bb66bc698ae610386cfab6b",
+        "5bb6706798ae610386cfab88",
+        "5bb7200e98ae610386cfab95",
+        "5be453d1de50b4457d8b0a44",
+        "5bebe12bb0dbce60e70e9020",
+        "5c19311514290c5cfdde0a5c"
+      ],
+      "leaders": [],
+      "name": "Biochemistry",
+      "lowercaseName": "biochemistry",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:15.733Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6832cc3a5c5582ab7ff5d"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5baa308598ae610386cfa80a"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5bab753598ae610386cfa8ea"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5baba95d98ae610386cfa948"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bae6ca398ae610386cfaa49"
+        },
+        {
+          "$oid": "5bafb64f98ae610386cfaa6d"
+        },
+        {
+          "$oid": "5bb0eeb598ae610386cfaa7d"
+        },
+        {
+          "$oid": "5bad3e9998ae610386cfa9dc"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        },
+        {
+          "$oid": "5bb7200e98ae610386cfab95"
+        },
+        {
+          "$oid": "5bbe4798e2746f1088e523c0"
+        },
+        {
+          "$oid": "5bd2e48cde50b4457d8b0982"
+        },
+        {
+          "$oid": "5c0522be14290c5cfdde0a2f"
+        },
+        {
+          "$oid": "5bb66bc698ae610386cfab6b"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        },
+        {
+          "$oid": "5c4223fdca808d5dad1d6cf1"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbe4798e2746f1088e523c0",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab753598ae610386cfa8ea",
+        "5bab78d798ae610386cfa8f1",
+        "5baa302798ae610386cfa7f7",
+        "5baba95d98ae610386cfa948",
+        "5bad3e9998ae610386cfa9dc",
+        "5bafb64f98ae610386cfaa6d",
+        "5bb0eeb598ae610386cfaa7d",
+        "5bab6a3b98ae610386cfa8db",
+        "5bb1d29398ae610386cfaa9f",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5bb1e70f98ae610386cfaacd",
+        "5bae6ca398ae610386cfaa49",
+        "5bab811598ae610386cfa900",
+        "5baa308598ae610386cfa80a",
+        "5bb7200e98ae610386cfab95",
+        "5bd2e48cde50b4457d8b0982",
+        "5c0522be14290c5cfdde0a2f",
+        "5bb66bc698ae610386cfab6b",
+        "5c19311514290c5cfdde0a5c",
+        "5c4223fdca808d5dad1d6cf1"
+      ],
+      "leaders": [],
+      "name": "Biology",
+      "lowercaseName": "biology",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:12.744Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68331c3a5c5582ab7ff61"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba8b8c7c3a5c5582ab80062"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5baba95d98ae610386cfa948"
+        },
+        {
+          "$oid": "5babf17c98ae610386cfa97b"
+        },
+        {
+          "$oid": "5bad464098ae610386cfa9f8"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bae6ca398ae610386cfaa49"
+        },
+        {
+          "$oid": "5bb5e35598ae610386cfab63"
+        },
+        {
+          "$oid": "5bb66bc698ae610386cfab6b"
+        },
+        {
+          "$oid": "5bb6706798ae610386cfab88"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        },
+        {
+          "$oid": "5bcca3aee2746f1088e5242f"
+        },
+        {
+          "$oid": "5bd1df41de50b4457d8b094d"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd728e141c8306cc738890",
+        "5ba8b8c7c3a5c5582ab80062",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baba95d98ae610386cfa948",
+        "5babf17c98ae610386cfa97b",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5bae6ca398ae610386cfaa49",
+        "5bad464098ae610386cfa9f8",
+        "5bb5e35598ae610386cfab63",
+        "5bb66bc698ae610386cfab6b",
+        "5bb6706798ae610386cfab88",
+        "5bcca3aee2746f1088e5242f",
+        "5bd1df41de50b4457d8b094d",
+        "5c19311514290c5cfdde0a5c"
+      ],
+      "leaders": [],
+      "name": "Biomedical Science",
+      "lowercaseName": "biomedical science",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:17.926Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba9191bc3a5c5582ab8009f"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        {
+          "$oid": "5ba9787898ae610386cfa7d8"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        }
+      ],
+      "subscriptions": [
+        "5ba9787898ae610386cfa7d8",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba745e8c3a5c5582ab8001b",
+        "5ba905abc3a5c5582ab8006f"
+      ],
+      "leaders": [],
+      "name": "Blythe Bridge Sixth Form",
+      "lowercaseName": "blythe bridge sixth form",
+      "creator": "5ba2c6abc3a5c5582ab7ff31",
+      "official": false,
+      "date": "2018-09-24T17:04:27.592Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba953f72c2afa734d9dc9b0"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bbd728e141c8306cc738890"
+      ],
+      "subscriptions": [
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bbd728e141c8306cc738890",
+        "5ba94bf52c2afa734d9dc9ab",
+        "5bbd6e4998ae610386cfabf5"
+      ],
+      "leaders": [
+        "5ba94bf52c2afa734d9dc9ab",
+        "5bbd6e4998ae610386cfabf5"
+      ],
+      "name": "Bristol Philosophy",
+      "lowercaseName": "bristol philosophy",
+      "creator": "5ba94bf52c2afa734d9dc9ab",
+      "official": false,
+      "inviteCode": "WELOPF",
+      "leaderCode": "JWHVQK",
+      "date": "2018-09-24T21:15:35.709Z",
+      "files": [
+        {
+          "_id": {
+            "$oid": "5ba96db898ae610386cfa7d1"
+          },
+          "title": "portfolio.png",
+          "file": "(Bristol Philosophy) portfolio.png",
+          "date": "2018-09-24T23:05:28.822Z",
+          "format": "image/png"
+        },
+        {
+          "_id": {
+            "$oid": "5ba96dfb98ae610386cfa7d3"
+          },
+          "title": "terms.pdf",
+          "file": "(Bristol Philosophy) terms.pdf",
+          "date": "2018-09-24T23:06:35.595Z",
+          "format": "application/pdf"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68334c3a5c5582ab7ff63"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba90948c3a5c5582ab8007a"
+        },
+        {
+          "$oid": "5bab35c598ae610386cfa8cc"
+        },
+        {
+          "$oid": "5babda4798ae610386cfa96c"
+        },
+        {
+          "$oid": "5bacf34598ae610386cfa9b5"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bc4194ae2746f1088e52400"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bc4194ae2746f1088e52400",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba90948c3a5c5582ab8007a",
+        "5bab35c598ae610386cfa8cc",
+        "5babda4798ae610386cfa96c",
+        "5bacf34598ae610386cfa9b5",
+        "5be453d1de50b4457d8b0a44"
+      ],
+      "leaders": [],
+      "name": "Business",
+      "lowercaseName": "business",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:20.067Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68342c3a5c5582ab7ff65"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba8b25ec3a5c5582ab80052"
+        },
+        {
+          "$oid": "5ba9787898ae610386cfa7d8"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5baa308598ae610386cfa80a"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5bab753598ae610386cfa8ea"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5baba95d98ae610386cfa948"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bafb64f98ae610386cfaa6d"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bb66bc698ae610386cfab6b"
+        },
+        {
+          "$oid": "5bb6706798ae610386cfab88"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        },
+        {
+          "$oid": "5bbe4798e2746f1088e523c0"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5be03ec5de50b4457d8b09ca"
+        },
+        {
+          "$oid": "5bf46ffa8ade005bfc7ffb7d"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        },
+        {
+          "$oid": "5c4189d319c253557b61a39f"
+        },
+        {
+          "$oid": "5c418bd819c253557b61a3a6"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba9787898ae610386cfa7d8",
+        "5bbe4798e2746f1088e523c0",
+        "5ba8b25ec3a5c5582ab80052",
+        "5bab753598ae610386cfa8ea",
+        "5bab78d798ae610386cfa8f1",
+        "5baa302798ae610386cfa7f7",
+        "5baba95d98ae610386cfa948",
+        "5bafb64f98ae610386cfaa6d",
+        "5bab6a3b98ae610386cfa8db",
+        "5bb1d29398ae610386cfaa9f",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5bb66bc698ae610386cfab6b",
+        "5bab811598ae610386cfa900",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bb6706798ae610386cfab88",
+        "5baa308598ae610386cfa80a",
+        "5bd4256fde50b4457d8b098c",
+        "5be03ec5de50b4457d8b09ca",
+        "5c19311514290c5cfdde0a5c",
+        "5c4189d319c253557b61a39f",
+        "5c418bd819c253557b61a3a6"
+      ],
+      "leaders": [],
+      "name": "Chemistry",
+      "lowercaseName": "chemistry",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:34.653Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bea62b0d1dd3705c6c5e191"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5be0832bde50b4457d8b09db",
+        "5bebe12bb0dbce60e70e9020"
+      ],
+      "leaders": [],
+      "name": "Coding",
+      "lowercaseName": "coding",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": false,
+      "date": "2018-11-13T05:35:44.348Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bebe147b0dbce60e70e9023"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bbd6e4998ae610386cfabf5"
+      ],
+      "subscriptions": [
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bbd6e4998ae610386cfabf5"
+      ],
+      "leaders": [
+        "5bebe12bb0dbce60e70e9020"
+      ],
+      "name": "Coding Organisation",
+      "lowercaseName": "coding organisation",
+      "creator": "5bebe12bb0dbce60e70e9020",
+      "official": false,
+      "inviteCode": "JQBDBU",
+      "leaderCode": "IVIHYS",
+      "date": "2018-11-14T08:48:07.179Z",
+      "files": [
+        {
+          "_id": {
+            "$oid": "5c4175e119c253557b61a395"
+          },
+          "title": "terms.pdf",
+          "file": "(Coding Organisation) terms.pdf",
+          "date": "2019-01-18T06:44:49.317Z",
+          "format": "application/pdf"
+        }
+      ],
+      "__v": 0,
+      "anonymous": false
+    },
+    {
+      "_id": {
+        "$oid": "5ba68344c3a5c5582ab7ff67"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5babda4798ae610386cfa96c"
+        },
+        {
+          "$oid": "5bad6cde98ae610386cfaa03"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bbd6e4998ae610386cfabf5"
+        },
+        {
+          "$oid": "5bc069c4e2746f1088e523f7"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be5880ad1dd3705c6c5e158"
+        },
+        {
+          "$oid": "5bf46ffa8ade005bfc7ffb7d"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        },
+        {
+          "$oid": "5c00612b14290c5cfdde0a11"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5babda4798ae610386cfa96c",
+        "5bad6cde98ae610386cfaa03",
+        "5bb1d29398ae610386cfaa9f",
+        "5bae521b98ae610386cfaa16",
+        "5bbd6e4998ae610386cfabf5",
+        "5be0832bde50b4457d8b09db",
+        "5be453d1de50b4457d8b0a44",
+        "5be5880ad1dd3705c6c5e158",
+        "5bf46ffa8ade005bfc7ffb7d",
+        "5bffe9b214290c5cfdde0a04",
+        "5c00612b14290c5cfdde0a11"
+      ],
+      "leaders": [],
+      "name": "Computer Science",
+      "lowercaseName": "computer science",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:36.696Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68347c3a5c5582ab7ff69"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23"
+      ],
+      "leaders": [],
+      "name": "Counselling",
+      "lowercaseName": "counselling",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:39.235Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68349c3a5c5582ab7ff6b"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5baa306c98ae610386cfa804"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb6706798ae610386cfab88"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        },
+        {
+          "$oid": "5bb7310398ae610386cfabc5"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        },
+        {
+          "$oid": "5bbd74782e94f41c6c7773b6"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        },
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd728e141c8306cc738890",
+        "5bbd74782e94f41c6c7773b6",
+        "5bbeb8c4e2746f1088e523c8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba905abc3a5c5582ab8006f",
+        "5baa302798ae610386cfa7f7",
+        "5bab6a3b98ae610386cfa8db",
+        "5bab811598ae610386cfa900",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bb6706798ae610386cfab88",
+        "5baa306c98ae610386cfa804",
+        "5bb7310398ae610386cfabc5",
+        "5bec4602b0dbce60e70e9034",
+        "5bebe12bb0dbce60e70e9020",
+        "5bffe9b214290c5cfdde0a04"
+      ],
+      "leaders": [],
+      "name": "Criminology",
+      "lowercaseName": "criminology",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:41.867Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bee0745c03c331a085b6e6e"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        },
+        {
+          "$oid": "5c42045219c253557b61a3b4"
+        }
+      ],
+      "subscriptions": [
+        "5bebe12bb0dbce60e70e9020",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bffe9b214290c5cfdde0a04",
+        "5c42045219c253557b61a3b4"
+      ],
+      "leaders": [],
+      "name": "Debating",
+      "lowercaseName": "debating",
+      "creator": "5bebe12bb0dbce60e70e9020",
+      "official": false,
+      "date": "2018-11-15T23:54:45.434Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6834bc3a5c5582ab7ff6d"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba9fea498ae610386cfa7ec",
+        "5bbd71c06ca70f141896b141"
+      ],
+      "leaders": [],
+      "name": "Dentistry",
+      "lowercaseName": "dentistry",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:43.816Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6834cc3a5c5582ab7ff6f"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba90948c3a5c5582ab8007a"
+        },
+        {
+          "$oid": "5bacf34598ae610386cfa9b5"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb4edee98ae610386cfab16"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        },
+        {
+          "$oid": "5bbd74782e94f41c6c7773b6"
+        },
+        {
+          "$oid": "5bbf0717e2746f1088e523d8"
+        },
+        {
+          "$oid": "5bc4194ae2746f1088e52400"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd728e141c8306cc738890",
+        "5bbd74782e94f41c6c7773b6",
+        "5bbf0717e2746f1088e523d8",
+        "5bc4194ae2746f1088e52400",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba90948c3a5c5582ab8007a",
+        "5bacf34598ae610386cfa9b5",
+        "5bb4edee98ae610386cfab16",
+        "5bd2d81dde50b4457d8b0973",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Economics",
+      "lowercaseName": "economics",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:44.878Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6834ec3a5c5582ab7ff71"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bad3f1b98ae610386cfa9e1"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5bd78b9cde50b4457d8b09a3"
+        },
+        {
+          "$oid": "5bee805a814a0f4331c7be25"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bad3f1b98ae610386cfa9e1",
+        "5bd4256fde50b4457d8b098c",
+        "5bd78b9cde50b4457d8b09a3",
+        "5bee805a814a0f4331c7be25",
+        "5c19311514290c5cfdde0a5c"
+      ],
+      "leaders": [],
+      "name": "Education",
+      "lowercaseName": "education",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:46.395Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6834fc3a5c5582ab7ff73"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        },
+        {
+          "$oid": "5c42045219c253557b61a3b4"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd728e141c8306cc738890",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5c42045219c253557b61a3b4"
+      ],
+      "leaders": [],
+      "name": "Electronics",
+      "lowercaseName": "electronics",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:47.844Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bb733ea98ae610386cfabd7"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bb8026798ae610386cfabe2"
+        },
+        {
+          "$oid": "5bae6ca398ae610386cfaa49"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        }
+      ],
+      "subscriptions": [
+        "5bbd728e141c8306cc738890",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bae6ca398ae610386cfaa49",
+        "5bb8026798ae610386cfabe2",
+        "5be453d1de50b4457d8b0a44"
+      ],
+      "leaders": [],
+      "name": "Engineering",
+      "lowercaseName": "engineering",
+      "creator": "5ba2c6abc3a5c5582ab7ff31",
+      "official": true,
+      "date": "2018-10-05T09:50:34.056Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68356c3a5c5582ab7ff77"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5bd78b9cde50b4457d8b09a3"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be5c0f4d1dd3705c6c5e174"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbeb8c4e2746f1088e523c8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab6a3b98ae610386cfa8db",
+        "5bd1f1aade50b4457d8b0956",
+        "5bd78b9cde50b4457d8b09a3",
+        "5be453d1de50b4457d8b0a44",
+        "5be5c0f4d1dd3705c6c5e174"
+      ],
+      "leaders": [],
+      "name": "English Language",
+      "lowercaseName": "english language",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:54.011Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68351c3a5c5582ab7ff75"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba8b383c3a5c5582ab80058"
+        },
+        {
+          "$oid": "5ba8b399c3a5c5582ab8005c"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5bd78b9cde50b4457d8b09a3"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be5c0f4d1dd3705c6c5e174"
+        },
+        {
+          "$oid": "5bfecf7a14290c5cfdde09dd"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd728e141c8306cc738890",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba8b383c3a5c5582ab80058",
+        "5ba8b399c3a5c5582ab8005c",
+        "5ba9fea498ae610386cfa7ec",
+        "5bd1f1aade50b4457d8b0956",
+        "5bd2d81dde50b4457d8b0973",
+        "5bd78b9cde50b4457d8b09a3",
+        "5be453d1de50b4457d8b0a44",
+        "5be5c0f4d1dd3705c6c5e174",
+        "5bfecf7a14290c5cfdde09dd"
+      ],
+      "leaders": [],
+      "name": "English Literature",
+      "lowercaseName": "english literature",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:49.981Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5be055e8de50b4457d8b09d5"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5be43fa0de50b4457d8b0a33"
+        },
+        {
+          "$oid": "5be436b0de50b4457d8b0a2f"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        },
+        {
+          "$oid": "5be03ec5de50b4457d8b09ca"
+        },
+        {
+          "$oid": "5c4189d319c253557b61a39f"
+        },
+        {
+          "$oid": "5c418bd819c253557b61a3a6"
+        }
+      ],
+      "subscriptions": [
+        "5be43fa0de50b4457d8b0a33",
+        "5be436b0de50b4457d8b0a2f",
+        "5bebe12bb0dbce60e70e9020",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bffe9b214290c5cfdde0a04",
+        "5be03ec5de50b4457d8b09ca",
+        "5c4189d319c253557b61a39f",
+        "5c418bd819c253557b61a3a6"
+      ],
+      "leaders": [],
+      "name": "Entrepreneurs",
+      "lowercaseName": "entrepreneurs",
+      "creator": "5ba2c6abc3a5c5582ab7ff31",
+      "official": false,
+      "date": "2018-11-05T14:38:32.125Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68359c3a5c5582ab7ff79"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5be03c6ede50b4457d8b09b9"
+        },
+        {
+          "$oid": "5be03c7bde50b4457d8b09be"
+        },
+        {
+          "$oid": "5be03ec5de50b4457d8b09ca"
+        },
+        {
+          "$oid": "5be08346de50b4457d8b09e0"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5be1cf8ade50b4457d8b0a0a"
+        },
+        {
+          "$oid": "5be5880ad1dd3705c6c5e158"
+        },
+        {
+          "$oid": "5c42045219c253557b61a3b4"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab78d798ae610386cfa8f1",
+        "5baa302798ae610386cfa7f7",
+        "5bb1d29398ae610386cfaa9f",
+        "5be03c6ede50b4457d8b09b9",
+        "5be03c7bde50b4457d8b09be",
+        "5be03ec5de50b4457d8b09ca",
+        "5be08346de50b4457d8b09e0",
+        "5be0832bde50b4457d8b09db",
+        "5be1cf8ade50b4457d8b0a0a",
+        "5be5880ad1dd3705c6c5e158",
+        "5c42045219c253557b61a3b4"
+      ],
+      "leaders": [],
+      "name": "Environmental Science",
+      "lowercaseName": "environmental science",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:57.703Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6835bc3a5c5582ab7ff7b"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Film Studies",
+      "lowercaseName": "film studies",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:00:59.270Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6835cc3a5c5582ab7ff7d"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab35c598ae610386cfa8cc"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bc4194ae2746f1088e52400"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bc4194ae2746f1088e52400",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab35c598ae610386cfa8cc",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Finance",
+      "lowercaseName": "finance",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:00.219Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6835dc3a5c5582ab7ff7f"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5baa306c98ae610386cfa804"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bb6706798ae610386cfab88"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        },
+        {
+          "$oid": "5bb7310398ae610386cfabc5"
+        },
+        {
+          "$oid": "5bb732a498ae610386cfabcf"
+        },
+        {
+          "$oid": "5bd2c81cde50b4457d8b096e"
+        },
+        {
+          "$oid": "5c0522be14290c5cfdde0a2f"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baa302798ae610386cfa7f7",
+        "5bab6a3b98ae610386cfa8db",
+        "5bb1d29398ae610386cfaa9f",
+        "5bab811598ae610386cfa900",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bb732a498ae610386cfabcf",
+        "5bb6706798ae610386cfab88",
+        "5baa306c98ae610386cfa804",
+        "5bb7310398ae610386cfabc5",
+        "5bd2c81cde50b4457d8b096e",
+        "5c0522be14290c5cfdde0a2f"
+      ],
+      "leaders": [],
+      "name": "Forensic Science",
+      "lowercaseName": "forensic science",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:01.974Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c2db8d114786b2887d4e2ea"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        }
+      ],
+      "subscriptions": [
+        "5bec4602b0dbce60e70e9034",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [],
+      "name": "Foundation Year",
+      "lowercaseName": "foundation year",
+      "creator": "5bec4602b0dbce60e70e9034",
+      "official": false,
+      "date": "2019-01-03T07:25:05.578Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c2db8e514786b2887d4e2ec"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        }
+      ],
+      "subscriptions": [
+        "5bec4602b0dbce60e70e9034",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [],
+      "name": "Foundation year psychology",
+      "lowercaseName": "foundation year psychology",
+      "creator": "5bec4602b0dbce60e70e9034",
+      "official": false,
+      "date": "2019-01-03T07:25:25.599Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6835fc3a5c5582ab7ff81"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb7200e98ae610386cfab95"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        },
+        {
+          "$oid": "5bd78b9cde50b4457d8b09a3"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbeb8c4e2746f1088e523c8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bb7200e98ae610386cfab95",
+        "5bd78b9cde50b4457d8b09a3",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "French",
+      "lowercaseName": "french",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:03.623Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bea661bd1dd3705c6c5e197"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5c418bd819c253557b61a3a6"
+        }
+      ],
+      "subscriptions": [
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5c418bd819c253557b61a3a6"
+      ],
+      "leaders": [],
+      "name": "Gaming",
+      "lowercaseName": "gaming",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": false,
+      "date": "2018-11-13T05:50:19.091Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68363c3a5c5582ab7ff83"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bae6ca398ae610386cfaa49"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbeb8c4e2746f1088e523c8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba745e8c3a5c5582ab8001b",
+        "5bae6ca398ae610386cfaa49",
+        "5be0832bde50b4457d8b09db",
+        "5baa302798ae610386cfa7f7",
+        "5be574b5d1dd3705c6c5e133",
+        "5bffe9b214290c5cfdde0a04",
+        "5c19311514290c5cfdde0a5c"
+      ],
+      "leaders": [],
+      "name": "General Knowledge",
+      "lowercaseName": "general knowledge",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:07.197Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68365c3a5c5582ab7ff85"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bad058298ae610386cfa9d0"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5be03c6ede50b4457d8b09b9"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bad058298ae610386cfa9d0",
+        "5be03c6ede50b4457d8b09b9",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Geography",
+      "lowercaseName": "geography",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:09.696Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68366c3a5c5582ab7ff87"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bb1d29398ae610386cfaa9f"
+      ],
+      "leaders": [],
+      "name": "Geology",
+      "lowercaseName": "geology",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:10.785Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68367c3a5c5582ab7ff89"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "German",
+      "lowercaseName": "german",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:11.871Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6836fc3a5c5582ab7ff8b"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5bad3f1b98ae610386cfa9e1"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        },
+        {
+          "$oid": "5be590ced1dd3705c6c5e160"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab78d798ae610386cfa8f1",
+        "5bad3f1b98ae610386cfa9e1",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5bb1e70f98ae610386cfaacd",
+        "5be590ced1dd3705c6c5e160",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5bec4602b0dbce60e70e9034"
+      ],
+      "leaders": [],
+      "name": "Health & Wellbeing",
+      "lowercaseName": "health & wellbeing",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:19.617Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68371c3a5c5582ab7ff8d"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbf0717e2746f1088e523d8"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5bd1f3d8de50b4457d8b0966"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5bee805a814a0f4331c7be25"
+        },
+        {
+          "$oid": "5c25048b14786b2887d4e2e2"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbf0717e2746f1088e523d8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bd1f1aade50b4457d8b0956",
+        "5bd1f3d8de50b4457d8b0966",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133",
+        "5bee805a814a0f4331c7be25",
+        "5c25048b14786b2887d4e2e2"
+      ],
+      "leaders": [],
+      "name": "History",
+      "lowercaseName": "history",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:21.712Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68375c3a5c5582ab7ff8f"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bacf34598ae610386cfa9b5"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bacf34598ae610386cfa9b5"
+      ],
+      "leaders": [],
+      "name": "Human Resource Management",
+      "lowercaseName": "human resource management",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:25.124Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bd1f2e1de50b4457d8b0963"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5bd1f1aade50b4457d8b0956",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        },
+        {
+          "$oid": "5c25048b14786b2887d4e2e2"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5bec4602b0dbce60e70e9034",
+        "5c25048b14786b2887d4e2e2"
+      ],
+      "leaders": [],
+      "name": "Hummanities Foundation",
+      "lowercaseName": "hummanities foundation",
+      "creator": "5bd1f1aade50b4457d8b0956",
+      "official": false,
+      "date": "2018-10-25T16:44:17.197Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68380c3a5c5582ab7ff93"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb4edee98ae610386cfab16"
+        },
+        {
+          "$oid": "5bb66e1098ae610386cfab78"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bb66e1098ae610386cfab78",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bb4edee98ae610386cfab16"
+      ],
+      "leaders": [],
+      "name": "International Governance and Public Policy",
+      "lowercaseName": "international governance and public policy",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:36.358Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68377c3a5c5582ab7ff91"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb13e6c98ae610386cfaa8b"
+        },
+        {
+          "$oid": "5bb4edee98ae610386cfab16"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        },
+        {
+          "$oid": "5bd78b9cde50b4457d8b09a3"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbeb8c4e2746f1088e523c8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bb13e6c98ae610386cfaa8b",
+        "5bb4edee98ae610386cfab16",
+        "5bd78b9cde50b4457d8b09a3"
+      ],
+      "leaders": [],
+      "name": "International Relations",
+      "lowercaseName": "international relations",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:27.424Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c3c4aab19c253557b61a364"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [],
+      "subscriptions": [
+        "5c38b3ab14786b2887d4e310"
+      ],
+      "leaders": [
+        {
+          "$oid": "5c38b3ab14786b2887d4e310"
+        }
+      ],
+      "name": "Investigations and Problem Solving",
+      "lowercaseName": "investigations and problem solving",
+      "creator": "5c38b3ab14786b2887d4e310",
+      "official": false,
+      "inviteCode": "DWFBGJ",
+      "leaderCode": "QMSIMA",
+      "date": "2019-01-14T08:39:07.027Z",
+      "files": [],
+      "__v": 0,
+      "anonymous": true
+    },
+    {
+      "_id": {
+        "$oid": "5bebe166b0dbce60e70e9024"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [],
+      "name": "jqbdbu",
+      "lowercaseName": "jqbdbu",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": false,
+      "date": "2018-11-14T08:48:38.852Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba62b26c3a5c5582ab7ff50"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5baa302798ae610386cfa7f7",
+        "5ba9fea498ae610386cfa7ec",
+        "5bab6a3b98ae610386cfa8db",
+        "5babda4798ae610386cfa96c",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bab753598ae610386cfa8ea",
+        "5bd1df41de50b4457d8b094d",
+        "5bd1f3d8de50b4457d8b0966",
+        "5babf17c98ae610386cfa97b",
+        "5bd2c81cde50b4457d8b096e"
+      ],
+      "subscriptions": [
+        "5baa302798ae610386cfa7f7",
+        "5ba9fea498ae610386cfa7ec",
+        "5bab6a3b98ae610386cfa8db",
+        "5babda4798ae610386cfa96c",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bab753598ae610386cfa8ea",
+        "5ba4c08ec3a5c5582ab7ff43",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937",
+        "5bd1df41de50b4457d8b094d",
+        "5bd1f3d8de50b4457d8b0966",
+        "5babf17c98ae610386cfa97b",
+        "5bd2c81cde50b4457d8b096e"
+      ],
+      "leaders": [
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "name": "Keele Foundation Year 2018",
+      "lowercaseName": "keele foundation year 2018",
+      "creator": "5ba62919c3a5c5582ab7ff48",
+      "official": false,
+      "inviteCode": "ODJHCD",
+      "leaderCode": "JOSIUJ",
+      "date": "2018-09-22T11:44:38.826Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba62c82c3a5c5582ab7ff53"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba8c593c3a5c5582ab80067"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5baa306c98ae610386cfa804"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5ba9787898ae610386cfa7d8"
+        },
+        {
+          "$oid": "5baa901098ae610386cfa8b9"
+        },
+        {
+          "$oid": "5bab35c598ae610386cfa8cc"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5baba95d98ae610386cfa948"
+        },
+        {
+          "$oid": "5babf17c98ae610386cfa97b"
+        },
+        {
+          "$oid": "5bab650498ae610386cfa8d6"
+        },
+        {
+          "$oid": "5bad6cde98ae610386cfaa03"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb5e35598ae610386cfab63"
+        },
+        {
+          "$oid": "5bbf0717e2746f1088e523d8"
+        },
+        {
+          "$oid": "5baa56fe98ae610386cfa86b"
+        },
+        {
+          "$oid": "5bc4194ae2746f1088e52400"
+        },
+        {
+          "$oid": "5bd06b5fde50b4457d8b092c"
+        },
+        {
+          "$oid": "5bd1cdaade50b4457d8b0937"
+        },
+        {
+          "$oid": "5bd1df41de50b4457d8b094d"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba9787898ae610386cfa7d8",
+        "5bbf0717e2746f1088e523d8",
+        "5baa56fe98ae610386cfa86b",
+        "5bc4194ae2746f1088e52400",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baa901098ae610386cfa8b9",
+        "5bab650498ae610386cfa8d6",
+        "5bab35c598ae610386cfa8cc",
+        "5baa302798ae610386cfa7f7",
+        "5baba95d98ae610386cfa948",
+        "5babf17c98ae610386cfa97b",
+        "5bad6cde98ae610386cfaa03",
+        "5bab6a3b98ae610386cfa8db",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5ba745e8c3a5c5582ab8001b",
+        "5bb5e35598ae610386cfab63",
+        "5bab811598ae610386cfa900",
+        "5baa306c98ae610386cfa804",
+        "5ba8c593c3a5c5582ab80067",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937",
+        "5bd1df41de50b4457d8b094d",
+        "5bec4602b0dbce60e70e9034"
+      ],
+      "leaders": [],
+      "name": "Keele Freshers 2k18",
+      "lowercaseName": "keele freshers 2k18",
+      "creator": "5ba2c6abc3a5c5582ab7ff31",
+      "official": false,
+      "date": "2018-09-22T11:50:26.059Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5baa7c7a98ae610386cfa8ab"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5baa302798ae610386cfa7f7",
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab35c598ae610386cfa8cc"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5baba95d98ae610386cfa948"
+        },
+        {
+          "$oid": "5babf17c98ae610386cfa97b"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbf0717e2746f1088e523d8"
+        },
+        {
+          "$oid": "5baa56fe98ae610386cfa86b"
+        },
+        {
+          "$oid": "5bc4194ae2746f1088e52400"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5be03c6ede50b4457d8b09b9"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5be590ced1dd3705c6c5e160"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbf0717e2746f1088e523d8",
+        "5baa56fe98ae610386cfa86b",
+        "5bc4194ae2746f1088e52400",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab35c598ae610386cfa8cc",
+        "5baa302798ae610386cfa7f7",
+        "5baba95d98ae610386cfa948",
+        "5babf17c98ae610386cfa97b",
+        "5ba745e8c3a5c5582ab8001b",
+        "5bab811598ae610386cfa900",
+        "5bd1f1aade50b4457d8b0956",
+        "5be03c6ede50b4457d8b09b9",
+        "5be574b5d1dd3705c6c5e133",
+        "5be590ced1dd3705c6c5e160",
+        "5ba3d837c3a5c5582ab7ff37"
+      ],
+      "leaders": [],
+      "name": "Keele socities",
+      "lowercaseName": "keele socities",
+      "creator": "5baa302798ae610386cfa7f7",
+      "official": false,
+      "date": "2018-09-25T18:20:42.028Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5be0a72ede50b4457d8b09fd"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5be03c7bde50b4457d8b09be",
+        "5be03c6ede50b4457d8b09b9",
+        "5be1cf8ade50b4457d8b0a0a"
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5be03c7bde50b4457d8b09be",
+        "5be03c6ede50b4457d8b09b9",
+        "5be1cf8ade50b4457d8b0a0a",
+        "5be5880ad1dd3705c6c5e158"
+      ],
+      "leaders": [
+        "5be0a6d2de50b4457d8b09fa",
+        "5be5880ad1dd3705c6c5e158"
+      ],
+      "name": "Keele Sustainability",
+      "lowercaseName": "keele sustainability",
+      "creator": "5be0a6d2de50b4457d8b09fa",
+      "official": false,
+      "inviteCode": "ZSYCUM",
+      "leaderCode": "GATJSI",
+      "date": "2018-11-05T20:25:18.564Z",
+      "files": [],
+      "__v": 0,
+      "emailLock": "students.keele.ac.uk",
+      "emailLockB": "keele.ac.uk"
+    },
+    {
+      "_id": {
+        "$oid": "5bbf0549e2746f1088e523d6"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [],
+      "subscriptions": [
+        "5bae6ca398ae610386cfaa49",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [
+        "5bae6ca398ae610386cfaa49",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "name": "Keele University - Medical Engineering Design",
+      "lowercaseName": "keele university - medical engineering design",
+      "creator": "5bae6ca398ae610386cfaa49",
+      "official": false,
+      "inviteCode": "IHIFDR",
+      "leaderCode": "BPOPID",
+      "date": "2018-10-11T08:09:45.139Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba62a73c3a5c5582ab7ff4d"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5babda4798ae610386cfa96c",
+        "5bacf34598ae610386cfa9b5"
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5babda4798ae610386cfa96c",
+        "5bacf34598ae610386cfa9b5",
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "leaders": [
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "name": "KF Business",
+      "lowercaseName": "kf business",
+      "creator": "5ba62919c3a5c5582ab7ff48",
+      "official": false,
+      "inviteCode": "RYIINE",
+      "leaderCode": "HHBOXC",
+      "date": "2018-09-22T11:41:39.431Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba62a96c3a5c5582ab7ff4f"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5be590ced1dd3705c6c5e160"
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937",
+        "5be590ced1dd3705c6c5e160"
+      ],
+      "leaders": [
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "name": "KF Health Sciences",
+      "lowercaseName": "kf health sciences",
+      "creator": "5ba62919c3a5c5582ab7ff48",
+      "official": false,
+      "inviteCode": "KAISHO",
+      "leaderCode": "BKQICL",
+      "date": "2018-09-22T11:42:14.203Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba62a89c3a5c5582ab7ff4e"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bd1f3d8de50b4457d8b0966"
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937",
+        "5bd1f3d8de50b4457d8b0966"
+      ],
+      "leaders": [
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "name": "KF Humanities & Social Sciences",
+      "lowercaseName": "kf humanities & social sciences",
+      "creator": "5ba62919c3a5c5582ab7ff48",
+      "official": false,
+      "inviteCode": "OLBGYS",
+      "leaderCode": "JBGWAT",
+      "date": "2018-09-22T11:42:01.362Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba62b38c3a5c5582ab7ff51"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5babda4798ae610386cfa96c"
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5babda4798ae610386cfa96c",
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "leaders": [
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "name": "KF Maths",
+      "lowercaseName": "kf maths",
+      "creator": "5ba62919c3a5c5582ab7ff48",
+      "official": false,
+      "inviteCode": "QJLWNN",
+      "leaderCode": "DZWJEL",
+      "date": "2018-09-22T11:44:56.268Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba62b48c3a5c5582ab7ff52"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5baa302798ae610386cfa7f7",
+        "5ba9fea498ae610386cfa7ec"
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5baa302798ae610386cfa7f7",
+        "5ba9fea498ae610386cfa7ec",
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "leaders": [
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "name": "KF Returners",
+      "lowercaseName": "kf returners",
+      "creator": "5ba62919c3a5c5582ab7ff48",
+      "official": false,
+      "inviteCode": "JPRDXX",
+      "leaderCode": "VQOFUT",
+      "date": "2018-09-22T11:45:12.187Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bd0485ade50b4457d8b092a"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5baa302798ae610386cfa7f7",
+        "5bd1df41de50b4457d8b094d",
+        "5babf17c98ae610386cfa97b",
+        "5bd2c81cde50b4457d8b096e"
+      ],
+      "subscriptions": [
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937",
+        "5baa302798ae610386cfa7f7",
+        "5bd1df41de50b4457d8b094d",
+        "5babf17c98ae610386cfa97b",
+        "5bd2c81cde50b4457d8b096e"
+      ],
+      "leaders": [
+        "5ba62919c3a5c5582ab7ff48",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937"
+      ],
+      "name": "KF Science",
+      "lowercaseName": "kf science",
+      "creator": "5ba62919c3a5c5582ab7ff48",
+      "official": false,
+      "inviteCode": "CHZNJD",
+      "leaderCode": "YJQPPP",
+      "date": "2018-10-24T10:24:26.738Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5be4068ade50b4457d8b0a1c"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5be43fa0de50b4457d8b0a33",
+        "5be436b0de50b4457d8b0a2f"
+      ],
+      "subscriptions": [
+        "5be43fa0de50b4457d8b0a33",
+        "5be436b0de50b4457d8b0a2f",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "name": "KRISP MDs",
+      "lowercaseName": "krisp mds",
+      "creator": "5ba3d837c3a5c5582ab7ff37",
+      "official": false,
+      "inviteCode": "XSNQMU",
+      "leaderCode": "IHGJUZ",
+      "date": "2018-11-08T09:48:58.734Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5be42badde50b4457d8b0a2a"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "leaders": [
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "name": "KRISP Students",
+      "lowercaseName": "krisp students",
+      "creator": "5ba3d837c3a5c5582ab7ff37",
+      "official": false,
+      "inviteCode": "IERGJE",
+      "leaderCode": "BVABCV",
+      "date": "2018-11-08T12:27:25.908Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68382c3a5c5582ab7ff95"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5baa56fe98ae610386cfa86b"
+        },
+        {
+          "$oid": "5bacf34598ae610386cfa9b5"
+        },
+        {
+          "$oid": "5bae542098ae610386cfaa35"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb4edee98ae610386cfab16"
+        },
+        {
+          "$oid": "5bb66bc698ae610386cfab6b"
+        },
+        {
+          "$oid": "5bb66e1098ae610386cfab78"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        },
+        {
+          "$oid": "5bb7310398ae610386cfabc5"
+        },
+        {
+          "$oid": "5bb732a498ae610386cfabcf"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        },
+        {
+          "$oid": "5be5573fde50b4457d8b0a6b"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba745e8c3a5c5582ab8001b",
+        "5bb66e1098ae610386cfab78",
+        "5bbeb8c4e2746f1088e523c8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bacf34598ae610386cfa9b5",
+        "5bae542098ae610386cfaa35",
+        "5baa56fe98ae610386cfa86b",
+        "5bb4edee98ae610386cfab16",
+        "5bb66bc698ae610386cfab6b",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bb732a498ae610386cfabcf",
+        "5bb7310398ae610386cfabc5",
+        "5be5573fde50b4457d8b0a6b"
+      ],
+      "leaders": [],
+      "name": "Law",
+      "lowercaseName": "law",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:38.446Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68385c3a5c5582ab7ff97"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23"
+      ],
+      "leaders": [],
+      "name": "Learning Disability Nursing",
+      "lowercaseName": "learning disability nursing",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:41.106Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68386c3a5c5582ab7ff99"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23"
+      ],
+      "leaders": [],
+      "name": "Liberal Arts",
+      "lowercaseName": "liberal arts",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:42.806Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68388c3a5c5582ab7ff9b"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bd2d81dde50b4457d8b0973",
+        "5be453d1de50b4457d8b0a44"
+      ],
+      "leaders": [],
+      "name": "Linguistics",
+      "lowercaseName": "linguistics",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:44.239Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6838ec3a5c5582ab7ff9d"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbd6e4998ae610386cfabf5"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd6e4998ae610386cfabf5",
+        "5bd1f1aade50b4457d8b0956",
+        "5bd2d81dde50b4457d8b0973",
+        "5be453d1de50b4457d8b0a44"
+      ],
+      "leaders": [],
+      "name": "Literature",
+      "lowercaseName": "literature",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:50.559Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6838fc3a5c5582ab7ff9f"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1dc6c98ae610386cfaac5"
+        },
+        {
+          "$oid": "5bb66e1098ae610386cfab78"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bb66e1098ae610386cfab78",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bb1dc6c98ae610386cfaac5",
+        "5be453d1de50b4457d8b0a44"
+      ],
+      "leaders": [],
+      "name": "Management",
+      "lowercaseName": "management",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:51.885Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68391c3a5c5582ab7ffa1"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa919198ae610386cfa8bf"
+        },
+        {
+          "$oid": "5bacf34598ae610386cfa9b5"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1dc6c98ae610386cfaac5"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5bfecf7a14290c5cfdde09dd"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baa919198ae610386cfa8bf",
+        "5bacf34598ae610386cfa9b5",
+        "5bb1dc6c98ae610386cfaac5",
+        "5be453d1de50b4457d8b0a44",
+        "5bfecf7a14290c5cfdde09dd"
+      ],
+      "leaders": [],
+      "name": "Marketing",
+      "lowercaseName": "marketing",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:53.255Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c3c4a6819c253557b61a363"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5c458a57ca808d5dad1d6cfe"
+      ],
+      "subscriptions": [
+        "5c38b3ab14786b2887d4e310",
+        "5c458a57ca808d5dad1d6cfe"
+      ],
+      "leaders": [
+        {
+          "$oid": "5c38b3ab14786b2887d4e310"
+        }
+      ],
+      "name": "Mathematical Biology",
+      "lowercaseName": "mathematical biology",
+      "creator": "5c38b3ab14786b2887d4e310",
+      "official": false,
+      "inviteCode": "FYRCCE",
+      "leaderCode": "HAWJPU",
+      "date": "2019-01-14T08:38:00.848Z",
+      "files": [],
+      "__v": 0,
+      "emailLock": "keele.ac.uk",
+      "emailLockB": null,
+      "anonymous": true
+    },
+    {
+      "_id": {
+        "$oid": "5ba68392c3a5c5582ab7ffa3"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5bae536b98ae610386cfaa2f"
+        },
+        {
+          "$oid": "5bae542098ae610386cfaa35"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bae6ca398ae610386cfaa49"
+        },
+        {
+          "$oid": "5bafb64f98ae610386cfaa6d"
+        },
+        {
+          "$oid": "5bad3e9998ae610386cfa9dc"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        },
+        {
+          "$oid": "5bbe4798e2746f1088e523c0"
+        },
+        {
+          "$oid": "5bbf0717e2746f1088e523d8"
+        },
+        {
+          "$oid": "5bc4194ae2746f1088e52400"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5c458a57ca808d5dad1d6cfe"
+        },
+        {
+          "$oid": "5c458b33ca808d5dad1d6d03"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbe4798e2746f1088e523c0",
+        "5bbf0717e2746f1088e523d8",
+        "5bc4194ae2746f1088e52400",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baa302798ae610386cfa7f7",
+        "5bad3e9998ae610386cfa9dc",
+        "5bae542098ae610386cfaa35",
+        "5bae536b98ae610386cfaa2f",
+        "5bafb64f98ae610386cfaa6d",
+        "5bab6a3b98ae610386cfa8db",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5bb1e70f98ae610386cfaacd",
+        "5bae6ca398ae610386cfaa49",
+        "5bab811598ae610386cfa900",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bd2d81dde50b4457d8b0973",
+        "5bd4256fde50b4457d8b098c",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133",
+        "5bebe12bb0dbce60e70e9020",
+        "5c458a57ca808d5dad1d6cfe",
+        "5c458b33ca808d5dad1d6d03"
+      ],
+      "leaders": [],
+      "name": "Maths",
+      "lowercaseName": "maths",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:54.297Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68393c3a5c5582ab7ffa5"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba8c593c3a5c5582ab80067"
+        },
+        {
+          "$oid": "5ba90b9fc3a5c5582ab80081"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb7200e98ae610386cfab95"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba90b9fc3a5c5582ab80081",
+        "5ba8c593c3a5c5582ab80067",
+        "5bb7200e98ae610386cfab95",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Media",
+      "lowercaseName": "media",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:55.060Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68399c3a5c5582ab7ffa9"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa308598ae610386cfa80a"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bae521b98ae610386cfaa16",
+        "5baa308598ae610386cfa80a"
+      ],
+      "leaders": [],
+      "name": "Medicinal Chemistry",
+      "lowercaseName": "medicinal chemistry",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:01.530Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba68394c3a5c5582ab7ffa7"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bae521b98ae610386cfaa16",
+        "5bb1e70f98ae610386cfaacd",
+        "5c19311514290c5cfdde0a5c"
+      ],
+      "leaders": [],
+      "name": "Medicine",
+      "lowercaseName": "medicine",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:01:56.114Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6839bc3a5c5582ab7ffab"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab78d798ae610386cfa8f1",
+        "5bbd728e141c8306cc738890"
+      ],
+      "leaders": [],
+      "name": "Mental Health Nursing",
+      "lowercaseName": "mental health nursing",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:03.939Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6839ec3a5c5582ab7ffad"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbd728e141c8306cc738890"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbd728e141c8306cc738890",
+        "5ba287a7c3a5c5582ab7ff23"
+      ],
+      "leaders": [],
+      "name": "Midwifery",
+      "lowercaseName": "midwifery",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:06.751Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba6839fc3a5c5582ab7ffaf"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5c25048b14786b2887d4e2e2"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bd2d81dde50b4457d8b0973",
+        "5be574b5d1dd3705c6c5e133",
+        "5c25048b14786b2887d4e2e2"
+      ],
+      "leaders": [],
+      "name": "Music",
+      "lowercaseName": "music",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:07.697Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683a1c3a5c5582ab7ffb1"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5c25048b14786b2887d4e2e2"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133",
+        "5c25048b14786b2887d4e2e2"
+      ],
+      "leaders": [],
+      "name": "Music Technology",
+      "lowercaseName": "music technology",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:09.723Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683a4c3a5c5582ab7ffb3"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5bad3e9998ae610386cfa9dc"
+        },
+        {
+          "$oid": "5bab650498ae610386cfa8d6"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        },
+        {
+          "$oid": "5bb7200e98ae610386cfab95"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab650498ae610386cfa8d6",
+        "5bab78d798ae610386cfa8f1",
+        "5baa302798ae610386cfa7f7",
+        "5bad3e9998ae610386cfa9dc",
+        "5bb1d29398ae610386cfaa9f",
+        "5ba9fea498ae610386cfa7ec",
+        "5bb1e70f98ae610386cfaacd",
+        "5ba745e8c3a5c5582ab8001b",
+        "5bab811598ae610386cfa900",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bb7200e98ae610386cfab95"
+      ],
+      "leaders": [],
+      "name": "Natural Sciences",
+      "lowercaseName": "natural sciences",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:12.098Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683a5c3a5c5582ab7ffb5"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bd59dafde50b4457d8b0998"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bd59dafde50b4457d8b0998"
+      ],
+      "leaders": [],
+      "name": "Nursing",
+      "lowercaseName": "nursing",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:13.011Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5be6036cd1dd3705c6c5e17d"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5be590ced1dd3705c6c5e160",
+        {
+          "$oid": "5be590ced1dd3705c6c5e160"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba905abc3a5c5582ab8006f",
+        "5bebe12bb0dbce60e70e9020"
+      ],
+      "leaders": [],
+      "name": "Outfit ideas",
+      "lowercaseName": "outfit ideas",
+      "creator": "5be590ced1dd3705c6c5e160",
+      "official": false,
+      "date": "2018-11-09T22:00:12.792Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683a8c3a5c5582ab7ffb7"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab650498ae610386cfa8d6"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb7200e98ae610386cfab95"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab650498ae610386cfa8d6",
+        "5bae521b98ae610386cfaa16",
+        "5bb7200e98ae610386cfab95"
+      ],
+      "leaders": [],
+      "name": "Pharmaceutical Science",
+      "lowercaseName": "pharmaceutical science",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:16.786Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683aac3a5c5582ab7ffb9"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa901098ae610386cfa8b9"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baa901098ae610386cfa8b9",
+        "5bae521b98ae610386cfaa16"
+      ],
+      "leaders": [],
+      "name": "Pharmacy",
+      "lowercaseName": "pharmacy",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:18.749Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683acc3a5c5582ab7ffbb"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bbd6e4998ae610386cfabf5"
+        },
+        {
+          "$oid": "5bc069c4e2746f1088e523f7"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5be5c0f4d1dd3705c6c5e174"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bc069c4e2746f1088e523f7",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba905abc3a5c5582ab8006f",
+        "5bb1d29398ae610386cfaa9f",
+        "5bbd6e4998ae610386cfabf5",
+        "5bd2d81dde50b4457d8b0973",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133",
+        "5be5c0f4d1dd3705c6c5e174"
+      ],
+      "leaders": [],
+      "name": "Philosophy",
+      "lowercaseName": "philosophy",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:20.123Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683aec3a5c5582ab7ffbd"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bae521b98ae610386cfaa16"
+      ],
+      "leaders": [],
+      "name": "Physical Education",
+      "lowercaseName": "physical education",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:22.328Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683b0c3a5c5582ab7ffbf"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab650498ae610386cfa8d6"
+        },
+        {
+          "$oid": "5baccd3498ae610386cfa9ae"
+        },
+        {
+          "$oid": "5bae322198ae610386cfaa0a"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bafb64f98ae610386cfaa6d"
+        },
+        {
+          "$oid": "5bb1dc6c98ae610386cfaac5"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab650498ae610386cfa8d6",
+        "5baccd3498ae610386cfa9ae",
+        "5bae322198ae610386cfaa0a",
+        "5bafb64f98ae610386cfaa6d",
+        "5bae521b98ae610386cfaa16",
+        "5bb1dc6c98ae610386cfaac5",
+        "5bd4256fde50b4457d8b098c",
+        "5be0832bde50b4457d8b09db",
+        "5baa302798ae610386cfa7f7",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Physics",
+      "lowercaseName": "physics",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:24.392Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683b2c3a5c5582ab7ffc1"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bae521b98ae610386cfaa16",
+        "5bb1e70f98ae610386cfaacd"
+      ],
+      "leaders": [],
+      "name": "Physiotherapy",
+      "lowercaseName": "physiotherapy",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:26.411Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683b3c3a5c5582ab7ffc3"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb13e6c98ae610386cfaa8b"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bb13e6c98ae610386cfaa8b",
+        "5be453d1de50b4457d8b0a44",
+        "5be574b5d1dd3705c6c5e133"
+      ],
+      "leaders": [],
+      "name": "Politics",
+      "lowercaseName": "politics",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:27.707Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683b5c3a5c5582ab7ffc5"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5ba90b9fc3a5c5582ab80081"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5bad3f1b98ae610386cfa9e1"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb0eeb598ae610386cfaa7d"
+        },
+        {
+          "$oid": "5bb7310398ae610386cfabc5"
+        },
+        {
+          "$oid": "5bb732a498ae610386cfabcf"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5bfecf7a14290c5cfdde09dd"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba90b9fc3a5c5582ab80081",
+        "5bab78d798ae610386cfa8f1",
+        "5bad3f1b98ae610386cfa9e1",
+        "5bb0eeb598ae610386cfaa7d",
+        "5bae521b98ae610386cfaa16",
+        "5ba745e8c3a5c5582ab8001b",
+        "5bb732a498ae610386cfabcf",
+        "5bb7310398ae610386cfabc5",
+        "5be453d1de50b4457d8b0a44",
+        "5bec4602b0dbce60e70e9034",
+        "5bebe12bb0dbce60e70e9020",
+        "5bfecf7a14290c5cfdde09dd",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5bffe9b214290c5cfdde0a04"
+      ],
+      "leaders": [],
+      "name": "Psychology",
+      "lowercaseName": "psychology",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:29.095Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683b6c3a5c5582ab7ffc7"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23"
+      ],
+      "leaders": [],
+      "name": "Radiography",
+      "lowercaseName": "radiography",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:30.801Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683b9c3a5c5582ab7ffc9"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bab78d798ae610386cfa8f1",
+        "5bb1e70f98ae610386cfaacd"
+      ],
+      "leaders": [],
+      "name": "Rehabilitation Science",
+      "lowercaseName": "rehabilitation science",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:33.368Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683bac3a5c5582ab7ffcb"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23"
+      ],
+      "leaders": [],
+      "name": "Russian",
+      "lowercaseName": "russian",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:34.326Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683bec3a5c5582ab7ffcd"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5baa715798ae610386cfa895"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5bad3f1b98ae610386cfa9e1"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbeb8c4e2746f1088e523c8",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baa715798ae610386cfa895",
+        "5bab78d798ae610386cfa8f1",
+        "5bad3f1b98ae610386cfa9e1",
+        "5bae521b98ae610386cfaa16"
+      ],
+      "leaders": [],
+      "name": "Social Work",
+      "lowercaseName": "social work",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:38.025Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683c0c3a5c5582ab7ffcf"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5bad3f1b98ae610386cfa9e1"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        },
+        {
+          "$oid": "5c25048b14786b2887d4e2e2"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba905abc3a5c5582ab8006f",
+        "5bad3f1b98ae610386cfa9e1",
+        "5bb1d29398ae610386cfaa9f",
+        "5bae521b98ae610386cfaa16",
+        "5be453d1de50b4457d8b0a44",
+        "5bffe9b214290c5cfdde0a04",
+        "5c25048b14786b2887d4e2e2"
+      ],
+      "leaders": [],
+      "name": "Sociology",
+      "lowercaseName": "sociology",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:40.051Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683c1c3a5c5582ab7ffd1"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bb7200e98ae610386cfab95"
+        },
+        {
+          "$oid": "5c3b6df9c070a95072890ec3"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba905abc3a5c5582ab8006f",
+        "5bb7200e98ae610386cfab95",
+        "5c3b6df9c070a95072890ec3"
+      ],
+      "leaders": [],
+      "name": "Spanish",
+      "lowercaseName": "spanish",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:41.229Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5babea1498ae610386cfa979"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5be574b5d1dd3705c6c5e133",
+        "5bd1f1aade50b4457d8b0956",
+        "5be5c0f4d1dd3705c6c5e174"
+      ],
+      "subscriptions": [
+        "5baa302798ae610386cfa7f7",
+        "5be574b5d1dd3705c6c5e133",
+        "5bd1f1aade50b4457d8b0956",
+        "5be5c0f4d1dd3705c6c5e174"
+      ],
+      "leaders": [
+        "5baa302798ae610386cfa7f7"
+      ],
+      "name": "Spectrum Society",
+      "lowercaseName": "spectrum society",
+      "creator": "5baa302798ae610386cfa7f7",
+      "official": false,
+      "inviteCode": "YMBKZW",
+      "leaderCode": "BRKAIK",
+      "date": "2018-09-26T20:20:36.503Z",
+      "files": [],
+      "__v": 0,
+      "emailLock": "keele.ac.uk",
+      "emailLockB": null
+    },
+    {
+      "_id": {
+        "$oid": "5baa331198ae610386cfa822"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5baa302798ae610386cfa7f7",
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5ba9787898ae610386cfa7d8"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5be590ced1dd3705c6c5e160"
+        }
+      ],
+      "subscriptions": [
+        "5ba9787898ae610386cfa7d8",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5baa302798ae610386cfa7f7",
+        "5ba9fea498ae610386cfa7ec",
+        "5ba745e8c3a5c5582ab8001b",
+        "5bab811598ae610386cfa900",
+        "5bd4256fde50b4457d8b098c",
+        "5be0832bde50b4457d8b09db",
+        "5be590ced1dd3705c6c5e160"
+      ],
+      "leaders": [],
+      "name": "Statistics",
+      "lowercaseName": "statistics",
+      "creator": "5baa302798ae610386cfa7f7",
+      "official": false,
+      "date": "2018-09-25T13:07:29.621Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5be03d33de50b4457d8b09c4"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5be03c6ede50b4457d8b09b9",
+        {
+          "$oid": "5be03c7bde50b4457d8b09be"
+        },
+        {
+          "$oid": "5be03c6ede50b4457d8b09b9"
+        },
+        {
+          "$oid": "5be03ec5de50b4457d8b09ca"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5be08346de50b4457d8b09e0"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        }
+      ],
+      "subscriptions": [
+        "5be03c7bde50b4457d8b09be",
+        "5be03ec5de50b4457d8b09ca",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5be08346de50b4457d8b09e0",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba287a7c3a5c5582ab7ff23"
+      ],
+      "leaders": [],
+      "name": "Sustainability",
+      "lowercaseName": "sustainability",
+      "creator": "5be03c6ede50b4457d8b09b9",
+      "official": false,
+      "date": "2018-11-05T12:53:07.188Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5be406e3de50b4457d8b0a1d"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [
+        "5be441aede50b4457d8b0a37",
+        "5be453d1de50b4457d8b0a44"
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5be441aede50b4457d8b0a37",
+        "5be453d1de50b4457d8b0a44"
+      ],
+      "leaders": [
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba2c6abc3a5c5582ab7ff31"
+      ],
+      "name": "SwattUp Entrepreneurs",
+      "lowercaseName": "swattup entrepreneurs",
+      "creator": "5ba3d837c3a5c5582ab7ff37",
+      "official": false,
+      "inviteCode": "NAHQHY",
+      "leaderCode": "UAOWEB",
+      "date": "2018-11-08T09:50:27.734Z",
+      "files": [],
+      "__v": 0,
+      "anonymous": false
+    },
+    {
+      "_id": {
+        "$oid": "5ba28826c3a5c5582ab7ff26"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5ba289ffc3a5c5582ab7ff2c"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba3d837c3a5c5582ab7ff37"
+        },
+        {
+          "$oid": "5ba4c08ec3a5c5582ab7ff43"
+        },
+        {
+          "$oid": "5ba62919c3a5c5582ab7ff48"
+        },
+        {
+          "$oid": "5ba745e8c3a5c5582ab8001b"
+        },
+        {
+          "$oid": "5ba8b25ec3a5c5582ab80052"
+        },
+        {
+          "$oid": "5ba8b383c3a5c5582ab80058"
+        },
+        {
+          "$oid": "5ba8b399c3a5c5582ab8005c"
+        },
+        {
+          "$oid": "5ba8b8c7c3a5c5582ab80062"
+        },
+        {
+          "$oid": "5ba8c593c3a5c5582ab80067"
+        },
+        {
+          "$oid": "5ba90948c3a5c5582ab8007a"
+        },
+        {
+          "$oid": "5ba905abc3a5c5582ab8006f"
+        },
+        {
+          "$oid": "5ba94bf52c2afa734d9dc9ab"
+        },
+        {
+          "$oid": "5ba95d0c98ae610386cfa7b9"
+        },
+        {
+          "$oid": "5ba95db698ae610386cfa7bd"
+        },
+        {
+          "$oid": "5ba95e9398ae610386cfa7c1"
+        },
+        {
+          "$oid": "5ba95efb98ae610386cfa7c6"
+        },
+        {
+          "$oid": "5ba95f6698ae610386cfa7ca"
+        },
+        {
+          "$oid": "5ba95fb098ae610386cfa7ce"
+        },
+        {
+          "$oid": "5ba9787898ae610386cfa7d8"
+        },
+        {
+          "$oid": "5ba9f91598ae610386cfa7e6"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5baa302798ae610386cfa7f7"
+        },
+        {
+          "$oid": "5baa306c98ae610386cfa804"
+        },
+        {
+          "$oid": "5baa308598ae610386cfa80a"
+        },
+        {
+          "$oid": "5baa56fe98ae610386cfa86b"
+        },
+        {
+          "$oid": "5baa715798ae610386cfa895"
+        },
+        {
+          "$oid": "5baa901098ae610386cfa8b9"
+        },
+        {
+          "$oid": "5bab35c598ae610386cfa8cc"
+        },
+        {
+          "$oid": "5bab650498ae610386cfa8d6"
+        },
+        {
+          "$oid": "5bab6a3b98ae610386cfa8db"
+        },
+        {
+          "$oid": "5bab753598ae610386cfa8ea"
+        },
+        {
+          "$oid": "5bab78d798ae610386cfa8f1"
+        },
+        {
+          "$oid": "5bab811598ae610386cfa900"
+        },
+        {
+          "$oid": "5baba95d98ae610386cfa948"
+        },
+        {
+          "$oid": "5babda4798ae610386cfa96c"
+        },
+        {
+          "$oid": "5babf17c98ae610386cfa97b"
+        },
+        {
+          "$oid": "5bac068898ae610386cfa984"
+        },
+        {
+          "$oid": "5baccd3498ae610386cfa9ae"
+        },
+        {
+          "$oid": "5bacf34598ae610386cfa9b5"
+        },
+        {
+          "$oid": "5bad058298ae610386cfa9d0"
+        },
+        {
+          "$oid": "5bad3e9998ae610386cfa9dc"
+        },
+        {
+          "$oid": "5bad3f1b98ae610386cfa9e1"
+        },
+        {
+          "$oid": "5bad464098ae610386cfa9f8"
+        },
+        {
+          "$oid": "5bad6cde98ae610386cfaa03"
+        },
+        {
+          "$oid": "5bae322198ae610386cfaa0a"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5bae536b98ae610386cfaa2f"
+        },
+        {
+          "$oid": "5bae542098ae610386cfaa35"
+        },
+        {
+          "$oid": "5bae6ca398ae610386cfaa49"
+        },
+        {
+          "$oid": "5bafb64f98ae610386cfaa6d"
+        },
+        {
+          "$oid": "5bb0eeb598ae610386cfaa7d"
+        },
+        {
+          "$oid": "5bb13e6c98ae610386cfaa8b"
+        },
+        {
+          "$oid": "5bb1d29398ae610386cfaa9f"
+        },
+        {
+          "$oid": "5bb1dc6c98ae610386cfaac5"
+        },
+        {
+          "$oid": "5bb1e70f98ae610386cfaacd"
+        },
+        {
+          "$oid": "5bb3c0e698ae610386cfaaeb"
+        },
+        {
+          "$oid": "5bb4edee98ae610386cfab16"
+        },
+        {
+          "$oid": "5bb5e35598ae610386cfab63"
+        },
+        {
+          "$oid": "5bb66bc698ae610386cfab6b"
+        },
+        {
+          "$oid": "5bb66e1098ae610386cfab78"
+        },
+        {
+          "$oid": "5bb6706798ae610386cfab88"
+        },
+        {
+          "$oid": "5bb72cc298ae610386cfaba1"
+        },
+        {
+          "$oid": "5bb72e2998ae610386cfabad"
+        },
+        {
+          "$oid": "5bb7300598ae610386cfabb9"
+        },
+        {
+          "$oid": "5bb7310398ae610386cfabc5"
+        },
+        {
+          "$oid": "5bb732a498ae610386cfabcf"
+        },
+        {
+          "$oid": "5bb8026798ae610386cfabe2"
+        },
+        {
+          "$oid": "5bbd6e4998ae610386cfabf5"
+        },
+        {
+          "$oid": "5bbe4798e2746f1088e523c0"
+        },
+        {
+          "$oid": "5bbeb8c4e2746f1088e523c8"
+        },
+        {
+          "$oid": "5bbf0717e2746f1088e523d8"
+        },
+        {
+          "$oid": "5bc069c4e2746f1088e523f7"
+        },
+        {
+          "$oid": "5bc4194ae2746f1088e52400"
+        },
+        {
+          "$oid": "5bcca3aee2746f1088e5242f"
+        },
+        {
+          "$oid": "5bd06b5fde50b4457d8b092c"
+        },
+        {
+          "$oid": "5bd1cdaade50b4457d8b0937"
+        },
+        {
+          "$oid": "5bd1df41de50b4457d8b094d"
+        },
+        {
+          "$oid": "5bd1f1aade50b4457d8b0956"
+        },
+        {
+          "$oid": "5bd1f3d8de50b4457d8b0966"
+        },
+        {
+          "$oid": "5bd2c81cde50b4457d8b096e"
+        },
+        {
+          "$oid": "5bd2d81dde50b4457d8b0973"
+        },
+        {
+          "$oid": "5bd2e48cde50b4457d8b0982"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5bd59dafde50b4457d8b0998"
+        },
+        {
+          "$oid": "5bd78b9cde50b4457d8b09a3"
+        },
+        {
+          "$oid": "5be03c6ede50b4457d8b09b9"
+        },
+        {
+          "$oid": "5be03c7bde50b4457d8b09be"
+        },
+        {
+          "$oid": "5be03ec5de50b4457d8b09ca"
+        },
+        {
+          "$oid": "5be0832bde50b4457d8b09db"
+        },
+        {
+          "$oid": "5be08346de50b4457d8b09e0"
+        },
+        {
+          "$oid": "5be0a6d2de50b4457d8b09fa"
+        },
+        {
+          "$oid": "5be1cf8ade50b4457d8b0a0a"
+        },
+        {
+          "$oid": "5be436b0de50b4457d8b0a2f"
+        },
+        {
+          "$oid": "5be441aede50b4457d8b0a37"
+        },
+        {
+          "$oid": "5be453d1de50b4457d8b0a44"
+        },
+        {
+          "$oid": "5be5573fde50b4457d8b0a6b"
+        },
+        {
+          "$oid": "5be574b5d1dd3705c6c5e133"
+        },
+        {
+          "$oid": "5be5880ad1dd3705c6c5e158"
+        },
+        {
+          "$oid": "5be590ced1dd3705c6c5e160"
+        },
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        },
+        {
+          "$oid": "5bee805a814a0f4331c7be25"
+        },
+        {
+          "$oid": "5befe2179a62cc6b428d4dcb"
+        },
+        {
+          "$oid": "5bf46ffa8ade005bfc7ffb7d"
+        },
+        {
+          "$oid": "5bfecf7a14290c5cfdde09dd"
+        },
+        {
+          "$oid": "5bffe9b214290c5cfdde0a04"
+        },
+        {
+          "$oid": "5c00612b14290c5cfdde0a11"
+        },
+        {
+          "$oid": "5c0522be14290c5cfdde0a2f"
+        },
+        {
+          "$oid": "5c19311514290c5cfdde0a5c"
+        },
+        {
+          "$oid": "5c25048b14786b2887d4e2e2"
+        },
+        {
+          "$oid": "5c325a3614786b2887d4e2f9"
+        },
+        {
+          "$oid": "5c36fbae14786b2887d4e30c"
+        },
+        {
+          "$oid": "5c38b3ab14786b2887d4e310"
+        },
+        {
+          "$oid": "5c38b7a8f9edb22a2ce8290a"
+        },
+        {
+          "$oid": "5c3b3d97e1104e62d4ffffdc"
+        },
+        {
+          "$oid": "5c3b6df9c070a95072890ec3"
+        },
+        {
+          "$oid": "5c3b702dc070a95072890ecb"
+        },
+        {
+          "$oid": "5c3cc1cf19c253557b61a37a"
+        },
+        {
+          "$oid": "5c3cc2f619c253557b61a37e"
+        },
+        {
+          "$oid": "5c3cc41419c253557b61a383"
+        },
+        {
+          "$oid": "5c3cc4c419c253557b61a387"
+        },
+        {
+          "$oid": "5c3cc56f19c253557b61a38c"
+        },
+        {
+          "$oid": "5c416f9b19c253557b61a391"
+        },
+        {
+          "$oid": "5c417bdd19c253557b61a398"
+        },
+        {
+          "$oid": "5c4189d319c253557b61a39f"
+        },
+        {
+          "$oid": "5c418bd819c253557b61a3a6"
+        },
+        {
+          "$oid": "5c42045219c253557b61a3b4"
+        },
+        {
+          "$oid": "5c42138819c253557b61a3bb"
+        },
+        {
+          "$oid": "5c4223fdca808d5dad1d6cf1"
+        },
+        {
+          "$oid": "5c4228a2ca808d5dad1d6cf6"
+        },
+        {
+          "$oid": "5c458a57ca808d5dad1d6cfe"
+        },
+        {
+          "$oid": "5c458b33ca808d5dad1d6d03"
+        },
+        {
+          "$oid": "5c4595366ef70208e060da92"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba745e8c3a5c5582ab8001b",
+        "5ba9787898ae610386cfa7d8",
+        "5bab35c598ae610386cfa8cc",
+        "5bb66e1098ae610386cfab78",
+        "5bbe4798e2746f1088e523c0",
+        "5bbeb8c4e2746f1088e523c8",
+        "5bbf0717e2746f1088e523d8",
+        "5bc4194ae2746f1088e52400",
+        "5ba8b8c7c3a5c5582ab80062",
+        "5ba289ffc3a5c5582ab7ff2c",
+        "5ba4c08ec3a5c5582ab7ff43",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5ba8b25ec3a5c5582ab80052",
+        "5ba8b383c3a5c5582ab80058",
+        "5ba8b399c3a5c5582ab8005c",
+        "5ba90948c3a5c5582ab8007a",
+        "5ba94bf52c2afa734d9dc9ab",
+        "5ba95d0c98ae610386cfa7b9",
+        "5ba95db698ae610386cfa7bd",
+        "5ba95efb98ae610386cfa7c6",
+        "5ba95f6698ae610386cfa7ca",
+        "5ba95fb098ae610386cfa7ce",
+        "5ba905abc3a5c5582ab8006f",
+        "5ba3d837c3a5c5582ab7ff37",
+        "5ba9f91598ae610386cfa7e6",
+        "5baa715798ae610386cfa895",
+        "5baa901098ae610386cfa8b9",
+        "5bab650498ae610386cfa8d6",
+        "5bab753598ae610386cfa8ea",
+        "5bab78d798ae610386cfa8f1",
+        "5baa302798ae610386cfa7f7",
+        "5baba95d98ae610386cfa948",
+        "5babda4798ae610386cfa96c",
+        "5babf17c98ae610386cfa97b",
+        "5bac068898ae610386cfa984",
+        "5baccd3498ae610386cfa9ae",
+        "5ba62919c3a5c5582ab7ff48",
+        "5bacf34598ae610386cfa9b5",
+        "5bad058298ae610386cfa9d0",
+        "5bad3e9998ae610386cfa9dc",
+        "5bad3f1b98ae610386cfa9e1",
+        "5bad6cde98ae610386cfaa03",
+        "5bae322198ae610386cfaa0a",
+        "5bae542098ae610386cfaa35",
+        "5bae536b98ae610386cfaa2f",
+        "5bafb64f98ae610386cfaa6d",
+        "5bb0eeb598ae610386cfaa7d",
+        "5bab6a3b98ae610386cfa8db",
+        "5bb13e6c98ae610386cfaa8b",
+        "5bb1d29398ae610386cfaa9f",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5baa56fe98ae610386cfa86b",
+        "5bb1dc6c98ae610386cfaac5",
+        "5bb1e70f98ae610386cfaacd",
+        "5bae6ca398ae610386cfaa49",
+        "5bb3c0e698ae610386cfaaeb",
+        "5bad464098ae610386cfa9f8",
+        "5bb4edee98ae610386cfab16",
+        "5bb5e35598ae610386cfab63",
+        "5bb66bc698ae610386cfab6b",
+        "5bab811598ae610386cfa900",
+        "5bb72cc298ae610386cfaba1",
+        "5bb72e2998ae610386cfabad",
+        "5bb7300598ae610386cfabb9",
+        "5bb732a498ae610386cfabcf",
+        "5bb6706798ae610386cfab88",
+        "5bb8026798ae610386cfabe2",
+        "5baa306c98ae610386cfa804",
+        "5ba8c593c3a5c5582ab80067",
+        "5ba95e9398ae610386cfa7c1",
+        "5baa308598ae610386cfa80a",
+        "5bb7310398ae610386cfabc5",
+        "5bcca3aee2746f1088e5242f",
+        "5bd06b5fde50b4457d8b092c",
+        "5bd1cdaade50b4457d8b0937",
+        "5bd1df41de50b4457d8b094d",
+        "5bd1f1aade50b4457d8b0956",
+        "5bd1f3d8de50b4457d8b0966",
+        "5bd2c81cde50b4457d8b096e",
+        "5bd2d81dde50b4457d8b0973",
+        "5bd2e48cde50b4457d8b0982",
+        "5bd4256fde50b4457d8b098c",
+        "5bd59dafde50b4457d8b0998",
+        "5bd78b9cde50b4457d8b09a3",
+        "5be03c6ede50b4457d8b09b9",
+        "5be03c7bde50b4457d8b09be",
+        "5be03ec5de50b4457d8b09ca",
+        "5be0832bde50b4457d8b09db",
+        "5be08346de50b4457d8b09e0",
+        "5be1cf8ade50b4457d8b0a0a",
+        "5be436b0de50b4457d8b0a2f",
+        "5be441aede50b4457d8b0a37",
+        "5be453d1de50b4457d8b0a44",
+        "5be5573fde50b4457d8b0a6b",
+        "5be574b5d1dd3705c6c5e133",
+        "5be5880ad1dd3705c6c5e158",
+        "5be590ced1dd3705c6c5e160",
+        "5bec4602b0dbce60e70e9034",
+        "5bee805a814a0f4331c7be25",
+        "5befe2179a62cc6b428d4dcb",
+        "5bfecf7a14290c5cfdde09dd",
+        "5bffe9b214290c5cfdde0a04",
+        "5c00612b14290c5cfdde0a11",
+        "5c0522be14290c5cfdde0a2f",
+        "5c19311514290c5cfdde0a5c",
+        "5c25048b14786b2887d4e2e2",
+        "5c325a3614786b2887d4e2f9",
+        "5c36fbae14786b2887d4e30c",
+        "5c3b6df9c070a95072890ec3",
+        "5c3b702dc070a95072890ecb",
+        "5c3cc1cf19c253557b61a37a",
+        "5c3cc2f619c253557b61a37e",
+        "5c3cc41419c253557b61a383",
+        "5c3cc4c419c253557b61a387",
+        "5c3cc56f19c253557b61a38c",
+        "5c416f9b19c253557b61a391",
+        "5c417bdd19c253557b61a398",
+        "5c4189d319c253557b61a39f",
+        "5c418bd819c253557b61a3a6",
+        "5c42045219c253557b61a3b4",
+        "5c42138819c253557b61a3bb",
+        "5c4223fdca808d5dad1d6cf1",
+        "5c4228a2ca808d5dad1d6cf6",
+        "5c458a57ca808d5dad1d6cfe",
+        "5c458b33ca808d5dad1d6d03"
+      ],
+      "leaders": [],
+      "name": "SwattUp Support",
+      "lowercaseName": "swattup support",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-19T17:32:22.227Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683c5c3a5c5582ab7ffd3"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba9fea498ae610386cfa7ec"
+        },
+        {
+          "$oid": "5bad3f1b98ae610386cfa9e1"
+        },
+        {
+          "$oid": "5bae521b98ae610386cfaa16"
+        },
+        {
+          "$oid": "5bae536b98ae610386cfaa2f"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bd4256fde50b4457d8b098c"
+        },
+        {
+          "$oid": "5bd78b9cde50b4457d8b09a3"
+        },
+        {
+          "$oid": "5be03ec5de50b4457d8b09ca"
+        },
+        {
+          "$oid": "5bec4602b0dbce60e70e9034"
+        },
+        {
+          "$oid": "5bee805a814a0f4331c7be25"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5ba287a7c3a5c5582ab7ff23",
+        "5bad3f1b98ae610386cfa9e1",
+        "5bae536b98ae610386cfaa2f",
+        "5bae521b98ae610386cfaa16",
+        "5ba9fea498ae610386cfa7ec",
+        "5bd4256fde50b4457d8b098c",
+        "5bd78b9cde50b4457d8b09a3",
+        "5be03ec5de50b4457d8b09ca",
+        "5bec4602b0dbce60e70e9034",
+        "5bee805a814a0f4331c7be25"
+      ],
+      "leaders": [],
+      "name": "Teaching",
+      "lowercaseName": "teaching",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:45.991Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c4595c16ef70208e060da95"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [],
+      "subscriptions": [
+        "5c4595366ef70208e060da92",
+        "5c416f9b19c253557b61a391"
+      ],
+      "leaders": [
+        {
+          "$oid": "5c4595366ef70208e060da92"
+        },
+        "5c416f9b19c253557b61a391"
+      ],
+      "name": "test org",
+      "lowercaseName": "test org",
+      "creator": "5c4595366ef70208e060da92",
+      "official": false,
+      "inviteCode": "GXLIBI",
+      "leaderCode": "TRFEEG",
+      "date": "2019-01-21T09:49:53.259Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c4595d16ef70208e060da96"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [],
+      "subscriptions": [
+        "5c4595366ef70208e060da92"
+      ],
+      "leaders": [
+        {
+          "$oid": "5c4595366ef70208e060da92"
+        }
+      ],
+      "name": "Test Org 2",
+      "lowercaseName": "test org 2",
+      "creator": "5c4595366ef70208e060da92",
+      "official": false,
+      "inviteCode": "ZGKELO",
+      "leaderCode": "QZJPFA",
+      "date": "2019-01-21T09:50:09.907Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5c459b7c02513124048e4dda"
+      },
+      "organisation": true,
+      "banned": false,
+      "users": [],
+      "subscriptions": [
+        "5c4595366ef70208e060da92"
+      ],
+      "leaders": [
+        "5c4595366ef70208e060da92"
+      ],
+      "name": "test org 3",
+      "lowercaseName": "test org 3",
+      "creator": "5c4595366ef70208e060da92",
+      "official": false,
+      "inviteCode": "YWLBIY",
+      "leaderCode": "XARHES",
+      "date": "2019-01-21T10:14:20.255Z",
+      "files": [],
+      "__v": 0,
+      "anonymous": true
+    },
+    {
+      "_id": {
+        "$oid": "5bee078967b89d241c7a30fd"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        {
+          "$oid": "5bebe12bb0dbce60e70e9020"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5c36fbae14786b2887d4e30c"
+        }
+      ],
+      "subscriptions": [
+        "5bebe12bb0dbce60e70e9020",
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5c36fbae14786b2887d4e30c"
+      ],
+      "leaders": [],
+      "name": "Travel",
+      "lowercaseName": "travel",
+      "creator": "5bebe12bb0dbce60e70e9020",
+      "official": false,
+      "date": "2018-11-15T23:55:53.555Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5ba683c8c3a5c5582ab7ffd5"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5ba287a7c3a5c5582ab7ff23",
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        },
+        {
+          "$oid": "5ba287a7c3a5c5582ab7ff23"
+        },
+        {
+          "$oid": "5bbe4798e2746f1088e523c0"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5bbe4798e2746f1088e523c0"
+      ],
+      "leaders": [],
+      "name": "Veterinary Studies",
+      "lowercaseName": "veterinary studies",
+      "creator": "5ba287a7c3a5c5582ab7ff23",
+      "official": true,
+      "date": "2018-09-22T18:02:48.210Z",
+      "files": [],
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "5bbf8e6ce2746f1088e523eb"
+      },
+      "organisation": false,
+      "banned": false,
+      "users": [
+        "5baa56fe98ae610386cfa86b",
+        {
+          "$oid": "5baa56fe98ae610386cfa86b"
+        },
+        {
+          "$oid": "5ba2c6abc3a5c5582ab7ff31"
+        }
+      ],
+      "subscriptions": [
+        "5ba2c6abc3a5c5582ab7ff31",
+        "5baa56fe98ae610386cfa86b"
+      ],
+      "leaders": [],
+      "name": "Young solicitors",
+      "lowercaseName": "young solicitors",
+      "creator": "5baa56fe98ae610386cfa86b",
+      "official": false,
+      "date": "2018-10-11T17:54:52.797Z",
+      "files": [],
+      "__v": 0
+    }
+  ]

@@ -1,0 +1,15 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWRlMmRiMjY4NDJmNjc5YTJkODBiNDgiLCJ0eXBlIjoidXNlciIsInBhc3N3b3JkRGF0ZSI6Ik1vbiBBcHIgMjMgMjAxOCAxOTowMjoxMCBHTVQrMDAwMCAoVVRDKSIsImlhdCI6MTUyNDc1NzcxOH0.FoOi1msMbfLTO6j8rvT2AWNKtGsUEyoRMdPDavRnb6w
+
+
+### VALIDATE CODE
+POST {{ROOTURL}}/validate/signup/don6@cherb.co.uk
+content-type: application/json
+
+{
+    "code": "603251"
+}
+
+### CREATE CODE
+GET {{ROOTURL}}/validate/signup/dan872@hotmail.co.uk

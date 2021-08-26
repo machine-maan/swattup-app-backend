@@ -1,0 +1,50 @@
+@ROOTURL = http://localhost:3000/api
+@userID = 5ade2db26842f679a2d80b48
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWRlMmRiMjY4NDJmNjc5YTJkODBiNDgiLCJ0eXBlIjoiYWRtaW4iLCJwYXNzd29yZERhdGUiOiJXZWQgSnVuIDEzIDIwMTggMTk6NTA6MTAgR01UKzAwMDAgKFVUQykiLCJpYXQiOjE1MzI0MDAyNTZ9.yB4Syd0xOZaxlYWZ-gDgyOsxrmuYO6NDTuBzbdrbUrw
+
+### GET STATS (e.g. /school/UWE or /learningLevel/Undergraduate)
+GET {{ROOTURL}}/stats/crowd/Chemistry
+Authorization: {{token}}
+
+### FETCH USER HISTORY (NOTIFICATIONS)
+GET {{ROOTURL}}/admin/users/history/5ade2db26842f679a2d80b48
+Authorization: {{token}}
+
+### FIND USER
+GET {{ROOTURL}}/admin/users/find/dondan
+Authorization: {{token}}
+
+### FETCH USERS
+GET {{ROOTURL}}/admin/users/fetch/points/0
+Authorization: {{token}}
+
+### UPDATE USER
+POST {{ROOTURL}}/admin/users/update/5adf60c4721a6f37ea77c5c0
+Authorization: {{token}}
+Content-Type: application/json
+
+{
+    "banned": false,
+    "tutor": true,
+    "points": 100
+}
+
+### DELETE AVATAR
+GET {{ROOTURL}}/admin/avatar/delete/5ade2db26842f679a2d80b48
+Authorization: {{token}}
+
+### ADMIN CREATE ACCOUNT
+POST {{ROOTURL}}/admin/users/create
+Authorization: {{token}}
+content-type: application/json
+
+{
+    "email": "danny10@cherb.co.uk",
+    "username": "dondan10",
+    "password": "kek555",
+    "firstName": "Namey",
+    "lastName": "namename"
+}
+
+
+
